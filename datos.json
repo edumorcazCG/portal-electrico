@@ -1,80 +1,110 @@
 [
   {
     "numero_de_parte": "RM1A60D50S333",
-    "descripcion_de_falla": "Falla en bobina",
-    "cantidad": 32,
+    "descripcion_de_falla": "32 analisis, 12 para prueba",
+    "cantidad": 44,
     "imagen": "RM1A.png"
   },
   {
     "numero_de_parte": "RM1A60D50S447",
-    "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 5,
+    "descripcion_de_falla": "5 analisis, 7 para prueba",
+    "cantidad": 12,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A23D25",
-    "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 2,
+    "descripcion_de_falla": "21 analisis,1 para prueba",
+    "cantidad": 22,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A23D50S18",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para prueba",
     "cantidad": 2,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A48D50",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para prueba",
     "cantidad": 1,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A60A75S110",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para prueba",
     "cantidad": 12,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RS1A23D25S300",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para prueba",
     "cantidad": 4,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A60D50S378",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para prueba",
     "cantidad": 15,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A48D50P66",
-    "descripcion_de_falla": "2 cca con corto scrap",
+    "descripcion_de_falla": "1 analisis, 2 para prueba",
     "cantidad": 3,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1B48A50S408",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "para analisis",
     "cantidad": 6,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A60D100P66",
-    "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 3,
+    "descripcion_de_falla": "5 analisis, 1 para prueba",
+    "cantidad": 6,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1E23V50S293",
-    "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 19,
+    "descripcion_de_falla": "para analisis ",
+    "cantidad": 20,
+    "imagen": "RM1E.png"
+  },
+    {
+    "numero_de_parte": "RM1A23275",
+    "descripcion_de_falla": "para analisis ",
+    "cantidad": 5,
+    "imagen": "RM1E.png"
+  },  
+  {
+    "numero_de_parte": "RM1A60D75",
+    "descripcion_de_falla": "para analisis ",
+    "cantidad": 2,
+    "imagen": "RM1E.png"
+  },
+  {
+    "numero_de_parte": "RM1A23D50",
+    "descripcion_de_falla": "1 analisis, 2 para prueba ",
+    "cantidad": 3,
+    "imagen": "RM1E.png"
+  },
+  {
+    "numero_de_parte": "RM1A60D50",
+    "descripcion_de_falla": "10 analisis, 1 para prueba ",
+    "cantidad": 11,
     "imagen": "RM1E.png"
   },
     {
     "numero_de_parte": "RA2A23040C",
-    "descripcion_de_falla": "11 cambiar bobina",
-    "cantidad": 21,
+    "descripcion_de_falla": "para analisis",
+    "cantidad": 79,
     "imagen": "RA2A.png"
   }
+    {
+    "numero_de_parte": "RM1A23D25P66",
+    "descripcion_de_falla": "para analisis ",
+    "cantidad": 46,
+    "imagen": "RM1E.png"
+  },
 ]
