@@ -49,7 +49,7 @@
   },
     {
     "numero_de_parte": "RM1A48D50P66",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "2 cca con corto scrap",
     "cantidad": 3,
     "imagen": "RM1A.png"
   },
@@ -73,7 +73,7 @@
   },
     {
     "numero_de_parte": "RA2A23040C",
-    "descripcion_de_falla": "Corto en terminal",
+    "descripcion_de_falla": "11 cambiar bobina",
     "cantidad": 21,
     "imagen": "RA2A.png"
   }
