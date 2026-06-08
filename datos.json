@@ -1,0 +1,14 @@
+[
+  {
+    "numero_de_parte": "EV9200",
+    "descripcion_de_falla": "Falla en bobina",
+    "cantidad": 3,
+    "imagen": "foto1.jpg"
+  },
+  {
+    "numero_de_parte": "EV9300",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 1,
+    "imagen": "foto2.jpg"
+  }
+]
