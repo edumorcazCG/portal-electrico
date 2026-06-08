@@ -1,20 +1,80 @@
 [
   {
-    "numero_de_parte": "EV9200",
+    "numero_de_parte": "RM1A60D50S333",
     "descripcion_de_falla": "Falla en bobina",
-    "cantidad": 3,
-    "imagen": "foto1.jpg"
+    "cantidad": 42,
+    "imagen": "RM1A.png"
   },
   {
-    "numero_de_parte": "EV9300",
+    "numero_de_parte": "RM1A60D50S447",
     "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 1,
-    "imagen": "foto2.jpg"
+    "cantidad": 10,
+    "imagen": "RM1A.png"
   },
     {
-    "numero_de_parte": "EV9300",
+    "numero_de_parte": "RM1A23D25",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 2,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A23D50S18",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 2,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A48D50",
     "descripcion_de_falla": "Corto en terminal",
     "cantidad": 1,
-    "imagen": "700-SH25GA24.png"
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A60A75S110",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 12,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RS1A23D25S300",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 4,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A60D50S378",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 15,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A48D50P66",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 3,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1B48A50S408",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 6,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1A60D100P66",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 3,
+    "imagen": "RM1A.png"
+  },
+    {
+    "numero_de_parte": "RM1E23V50S293",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 19,
+    "imagen": "RM1E.png"
+  },
+    {
+    "numero_de_parte": "RA2A23040C",
+    "descripcion_de_falla": "Corto en terminal",
+    "cantidad": 21,
+    "imagen": "RA2A.png"
   }
 ]
