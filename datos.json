@@ -2,13 +2,13 @@
   {
     "numero_de_parte": "RM1A60D50S333",
     "descripcion_de_falla": "Falla en bobina",
-    "cantidad": 42,
+    "cantidad": 32,
     "imagen": "RM1A.png"
   },
   {
     "numero_de_parte": "RM1A60D50S447",
     "descripcion_de_falla": "Corto en terminal",
-    "cantidad": 10,
+    "cantidad": 5,
     "imagen": "RM1A.png"
   },
     {
