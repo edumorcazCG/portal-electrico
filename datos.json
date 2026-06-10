@@ -7,7 +7,7 @@
   },
   {
     "numero_de_parte": "RM1A60D50S447",
-    "descripcion_de_falla": "5 analisis, 7 para prueba",
+    "descripcion_de_falla": "12 para prueba",
     "cantidad": 12,
     "imagen": "RM1A.png"
   },
@@ -19,14 +19,14 @@
   },
     {
     "numero_de_parte": "RM1A23D50S18",
-    "descripcion_de_falla": "para prueba",
-    "cantidad": 2,
+    "descripcion_de_falla": "1 para scrap",
+    "cantidad": 1,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A48D50",
-    "descripcion_de_falla": "para prueba",
-    "cantidad": 1,
+    "descripcion_de_falla": "3 para prueba",
+    "cantidad": 3,
     "imagen": "RM1A.png"
   },
     {
@@ -44,7 +44,7 @@
     {
     "numero_de_parte": "RM1A60D50S378",
     "descripcion_de_falla": "para prueba",
-    "cantidad": 15,
+    "cantidad": 4,
     "imagen": "RM1A.png"
   },
     {
@@ -61,8 +61,8 @@
   },
     {
     "numero_de_parte": "RM1A60D100P66",
-    "descripcion_de_falla": "5 analisis, 1 para prueba",
-    "cantidad": 6,
+    "descripcion_de_falla": " 3 para prueba",
+    "cantidad": 3,
     "imagen": "RM1A.png"
   },
     {
@@ -80,19 +80,19 @@
   {
     "numero_de_parte": "RM1A60D75",
     "descripcion_de_falla": "para analisis ",
-    "cantidad": 2,
+    "cantidad": 5,
     "imagen": "RM1E.png"
   },
   {
     "numero_de_parte": "RM1A23D50",
-    "descripcion_de_falla": "1 analisis, 2 para prueba ",
-    "cantidad": 3,
+    "descripcion_de_falla": "8analisis ",
+    "cantidad": 8,
     "imagen": "RM1E.png"
   },
   {
     "numero_de_parte": "RM1A60D50",
-    "descripcion_de_falla": "10 analisis, 1 para prueba ",
-    "cantidad": 11,
+    "descripcion_de_falla": "8 analisis,  ",
+    "cantidad": 8,
     "imagen": "RM1E.png"
   },
     {
@@ -102,9 +102,9 @@
     "imagen": "RA2A.png"
   },
     {
-    "numero_de_parte": "RM1A23D25P66",
-    "descripcion_de_falla": "2 para analisis 7 para prueba, 37 retrabajar",
-    "cantidad": 46,
+    "numero_de_parte": "RM1A23D50H15",
+    "descripcion_de_falla": "8 para analisis ",
+    "cantidad": 8,
     "imagen": "RM1E.png"
   }
 ]
