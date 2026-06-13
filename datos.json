@@ -1,38 +1,29 @@
 [
-  {
-    "numero_de_parte": "RM1A60D50S333",
-    "descripcion_de_falla": "32 analisis, 12 para prueba",
-    "cantidad": 44,
-    "imagen": "RM1A.png"
-  },
+  
+
   {
     "numero_de_parte": "RM1A60D50S447",
-    "descripcion_de_falla": "12 para prueba",
-    "cantidad": 12,
+    "descripcion_de_falla": " Analisis",
+    "cantidad": 4,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A23D25",
-    "descripcion_de_falla": "21 analisis,1 para prueba",
-    "cantidad": 22,
+    "descripcion_de_falla": " analisis",
+    "cantidad": 25,
     "imagen": "RM1A.png"
   },
-    {
-    "numero_de_parte": "RM1A23D50S18",
-    "descripcion_de_falla": "1 para scrap",
-    "cantidad": 1,
-    "imagen": "RM1A.png"
-  },
+    
     {
     "numero_de_parte": "RM1A48D50",
-    "descripcion_de_falla": "3 para prueba",
-    "cantidad": 3,
+    "descripcion_de_falla": "analisis",
+    "cantidad": 4,
     "imagen": "RM1A.png"
   },
     {
     "numero_de_parte": "RM1A60A75S110",
-    "descripcion_de_falla": "para prueba",
-    "cantidad": 12,
+    "descripcion_de_falla": "analisis",
+    "cantidad": 5,
     "imagen": "RM1A.png"
   },
     {
@@ -43,28 +34,18 @@
   },
     {
     "numero_de_parte": "RM1A60D50S378",
-    "descripcion_de_falla": "para prueba",
-    "cantidad": 4,
+    "descripcion_de_falla": "analisis",
+    "cantidad": 5,
     "imagen": "RM1A.png"
   },
-    {
-    "numero_de_parte": "RM1A48D50P66",
-    "descripcion_de_falla": "1 analisis, 2 para prueba",
-    "cantidad": 3,
-    "imagen": "RM1A.png"
-  },
+   
     {
     "numero_de_parte": "RM1B48A50S408",
-    "descripcion_de_falla": "para analisis",
-    "cantidad": 6,
+    "descripcion_de_falla": " analisis",
+    "cantidad": 26,
     "imagen": "RM1A.png"
   },
-    {
-    "numero_de_parte": "RM1A60D100P66",
-    "descripcion_de_falla": " 3 para prueba",
-    "cantidad": 3,
-    "imagen": "RM1A.png"
-  },
+    
     {
     "numero_de_parte": "RM1E23V50S293",
     "descripcion_de_falla": "para analisis ",
@@ -72,7 +53,7 @@
     "imagen": "RM1E.png"
   },
     {
-    "numero_de_parte": "RM1A23275",
+    "numero_de_parte": "RM1A23D75",
     "descripcion_de_falla": "para analisis ",
     "cantidad": 5,
     "imagen": "RM1E.png"
@@ -80,31 +61,31 @@
   {
     "numero_de_parte": "RM1A60D75",
     "descripcion_de_falla": "para analisis ",
-    "cantidad": 5,
+    "cantidad": 2,
     "imagen": "RM1E.png"
   },
   {
-    "numero_de_parte": "RM1A23D50",
+    "numero_de_parte": "RM1A48D50",
     "descripcion_de_falla": "8analisis ",
-    "cantidad": 8,
+    "cantidad": 4,
     "imagen": "RM1E.png"
   },
   {
     "numero_de_parte": "RM1A60D50",
-    "descripcion_de_falla": "8 analisis,  ",
-    "cantidad": 8,
+    "descripcion_de_falla": " analisis,  ",
+    "cantidad": 1,
     "imagen": "RM1E.png"
   },
     {
     "numero_de_parte": "RA2A23040C",
     "descripcion_de_falla": "para analisis",
-    "cantidad": 79,
+    "cantidad": 102,
     "imagen": "RA2A.png"
   },
     {
-    "numero_de_parte": "RM1A23D50H15",
-    "descripcion_de_falla": "8 para analisis ",
-    "cantidad": 8,
+    "numero_de_parte": "RM1A60D75",
+    "descripcion_de_falla": " para analisis ",
+    "cantidad": 2,
     "imagen": "RM1E.png"
   }
 ]
