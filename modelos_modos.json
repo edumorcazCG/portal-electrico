@@ -1,1 +1,18 @@
-
+{
+  "EV9200": [
+    "No enciende",
+    "Falla en bobina",
+    "Corto en terminal",
+    "Sobrecalentamiento"
+  ],
+  "EM510": [
+    "Error en display",
+    "Falla mecánica",
+    "No responde a señal"
+  ],
+  "EV9300": [
+    "Corto circuito",
+    "Falla en sensor",
+    "Ruido excesivo"
+  ]
+}
