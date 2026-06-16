@@ -1,0 +1,9 @@
+[
+  {
+    "fecha": "2026-06-15",
+    "modelo": "RM1C23D40C",
+    "requisitor": "Eduardo",
+    "cantidad": 1,
+    "modo_falla": "Led del segundo canal no enciende"
+  }
+]
