@@ -81,6 +81,11 @@
     "descripcion_de_falla": "para analisis",
     "cantidad": 102,
     "imagen": "RA2A.png"
+  },  {
+    "numero_de_parte": "RK2A60D50C",
+    "descripcion_de_falla": "para analisis ",
+    "cantidad": 17,
+    "imagen": "RM1E.png"
   },
     {
     "numero_de_parte": "RM1A60D75",
