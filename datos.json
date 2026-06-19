@@ -92,5 +92,11 @@
     "descripcion_de_falla": " para analisis ",
     "cantidad": 2,
     "imagen": "RM1E.png"
+  },
+    {
+    "numero_de_parte": "RKD2A60D50C",
+    "descripcion_de_falla": " Fallas en HV e inout current ",
+    "cantidad": 10,
+    "imagen": "RK_C.png"
   }
 ]
