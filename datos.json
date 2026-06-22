@@ -98,5 +98,11 @@
     "descripcion_de_falla": "Input Current (20), Reverse Input (7)Hipot I-O(5), Turn On (1) ",
     "cantidad": 28,
     "imagen": "RK_C.png"
-  }
+  },
+    {
+    "numero_de_parte": "RKD2A60D50C",
+    "descripcion_de_falla": "Input Current (4)",
+    "cantidad": 31,
+    "imagen": "RK_C.png"
+    }
 ]
