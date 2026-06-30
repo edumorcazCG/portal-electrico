@@ -13,6 +13,12 @@
     "cantidad": 25,
     "imagen": "RM1A.png"
   },
+    {
+    "numero_de_parte": "RM1A60D50S333",
+    "descripcion_de_falla": " analisis",
+    "cantidad": 25,
+    "imagen": "RM1A.png"
+  },
     
     {
     "numero_de_parte": "RM1A48D50",
