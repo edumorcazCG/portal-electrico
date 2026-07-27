@@ -1,32 +1,9 @@
 [
   {
-    "numero_de_parte": "PRM25-XX",
+    "numero_de_parte": "",
     "descripcion_de_falla": "En analisis",
     "cantidad": 71,
     "imagen": "RM1A.png"
-  },
-   {
-    "numero_de_parte": "PRM50-XX",
-    "descripcion_de_falla": "En analisis",
-    "cantidad": 210,
-    "imagen": "RM1A.png"
-  },
-  {
-    "numero_de_parte": "PRM75-XX",
-    "descripcion_de_falla": "En analisis",
-    "cantidad": 139,
-    "imagen": "RM1A.png"
-  },
-   {
-    "numero_de_parte": "PRM50-16",
-    "descripcion_de_falla": "En analisis",
-    "cantidad": 357,
-    "imagen": "RM1A.png"
-  },
-    {
-    "numero_de_parte": "PRM25-006",
-    "descripcion_de_falla": "En analisis",
-    "cantidad": 180,
-    "imagen": "RA2A.png"
-    }
+  }
+  
 ]
