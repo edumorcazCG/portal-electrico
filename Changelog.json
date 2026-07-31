@@ -76,6 +76,13 @@
     "Date":"7/24/2026",
     "Link":""
   },
+  {
+    "Numero_de_parte":"ICT SPEA",
+    "Change_description":"R145, R148 and C111 on the Power board removed temporarily",
+    "git":"",
+    "Date":"7/24/2026",
+    "Link":""
+  },
     {
     "Numero_de_parte":"RGH1A60D31KKE",
     "Change_description":"Etiqueta modificada, Formato con T y 53",
