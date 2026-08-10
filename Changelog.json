@@ -1,7 +1,21 @@
 [
+{
+    "Numero_de_parte":"RGS1A23A50KKE",
+    "Change_description":"Se actualizo etiqueta, se "agrego Assembled in Mexico",
+    "git":"",
+    "Date":"8/10/2026",
+    "Link":""
+  },
+{
+    "Numero_de_parte":"RGC1A23A25KKE",
+    "Change_description":"Se actualizo etiqueta, "agrego Assembled in Mexico"",
+    "git":"",
+    "Date":"8/10/2026",
+    "Link":""
+  },
     {
     "Numero_de_parte":"RGC1A23A30KKE",
-    "Change_description":"Se actualizo etiqueta",
+    "Change_description":"Se actualizo etiqueta, "agrego Assembled in Mexico"",
     "git":"",
     "Date":"8/10/2026",
     "Link":""
