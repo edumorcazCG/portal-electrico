@@ -1,4 +1,11 @@
 [
+    {
+    "Numero_de_parte":"RGC1A23A30KKE",
+    "Change_description":"Se actualizo etiqueta",
+    "git":"",
+    "Date":"8/10/2026",
+    "Link":""
+  },
 {
     "Numero_de_parte":"RGC1A60A20KKE",
     "Change_description":"Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
