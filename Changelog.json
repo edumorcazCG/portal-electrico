@@ -1,177 +1,184 @@
 [
-{
-    "Numero_de_parte":"RGC1A23A30KKE",
-    "Change_description":"Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
-  },
-{
-    "Numero_de_parte":"RGC1A60A25KKEP66",
-    "Change_description":"Se agrego etiqueta a este repositorio ya que no se encontraba en la lista",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
-  },
-{
-    "Numero_de_parte":"RGS1A23A50KKE",
-    "Change_description":"Se actualizo etiqueta, se agrego Assembled in Mexico",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
-  },
-{
-    "Numero_de_parte":"RGC1A23A25KKE",
-    "Change_description":"Se actualizo etiqueta, agrego Assembled in Mexico",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
-  },
-    {
-    "Numero_de_parte":"RGC1A23A30KKE",
-    "Change_description":"Se actualizo etiqueta, agrego Assembled in Mexico",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
-  },
-{
-    "Numero_de_parte":"RGC1A60A20KKE",
-    "Change_description":"Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
-    "git":"",
-    "Date":"8/10/2026",
-    "Link":""
+  {
+    "Numero_de_parte": "RGC1A23A30KKE",
+    "Change_description": "Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGC1A60A30KKE",
-    "Change_description":"Se actualizo etiqueta, se ajusto datecode para que no quedara encima de Assembled in Mexico",
-    "git":"",
-    "Date":"8/07/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A60A25KKEP66",
+    "Change_description": "Se agrego etiqueta a este repositorio ya que no se encontraba en la lista",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGC1A60A20KKE",
-    "Change_description":"Se actualizo etiqueta con orden TA31472175",
-    "git":"",
-    "Date":"8/07/2026",
-    "Link":""
+    "Numero_de_parte": "RGS1A23A50KKE",
+    "Change_description": "Se actualizo etiqueta, se agrego Assembled in Mexico",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RKD2B60D50PS379",
-    "Change_description":"Modelo especial, se dio de alta en el marcado laser",
-    "git":"",
-    "Date":"8/05/2026",
-    "Link":""
-  },
- {
-    "Numero_de_parte":"RKD2A60D50PS32",
-    "Change_description":"Modelo especial, se dio de alta en el marcado laser",
-    "git":"",
-    "Date":"8/05/2026",
-    "Link":""
-  },
-    {
-    "Numero_de_parte":"RGC1A60D25KKEX20",
-    "Change_description":"Se dio de alta etiqueta con orden TA334721846001 y se actualizo templete",
-    "git":"",
-    "Date":"8/05/2026",
-    "Link":""
-  },
-    {
-    "Numero_de_parte":"RSBS2332A2V23C10PAB",
-    "Change_description":"Etiqueta modificada, Formato con T y 530",
-    "git":"",
-    "Date":"7/30/2026",
-    "Link":""
-  },
-    {
-    "Numero_de_parte":"RM1C60D100",
-    "Change_description":"Secuencia dado de alta en prueba funcional manual",
-    "git":"6a7b438",
-    "Date":"7/31/2026",
-    "Link":""
-  },
-    {
-    "Numero_de_parte":"RM1C40D50",
-    "Change_description":"Secuencia dado de alta en prueba funcional manual",
-    "git":"eba0f68",
-    "Date":"7/31/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A23A25KKE",
+    "Change_description": "Se actualizo etiqueta, agrego Assembled in Mexico",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RKD2A23D50C",
-    "Change_description":"Marcado laser dado de alta",
-    "git":"",
-    "Date":"7/28/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A23A30KKE",
+    "Change_description": "Se actualizo etiqueta, agrego Assembled in Mexico",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RKD2A60D75C",
-    "Change_description":"Marcado laser dado de alta",
-    "git":"",
-    "Date":"7/28/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A60A20KKE",
+    "Change_description": "Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
+    "git": "",
+    "Date": "8/10/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGS1A60D50KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/27/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A60A30KKE",
+    "Change_description": "Se actualizo etiqueta, se ajusto datecode para que no quedara encima de Assembled in Mexico",
+    "git": "",
+    "Date": "8/07/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGS1A60D90KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/27/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A60A20KKE",
+    "Change_description": "Se actualizo etiqueta con orden TA31472175",
+    "git": "",
+    "Date": "8/07/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGC1A23D30KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/24/2026",
-    "Link":""
+    "Numero_de_parte": "RKD2B60D50PS379",
+    "Change_description": "Modelo especial, se dio de alta en el marcado laser",
+    "git": "",
+    "Date": "8/05/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGC1A60D20KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/24/2026",
-    "Link":""
+    "Numero_de_parte": "RKD2A60D50PS32",
+    "Change_description": "Modelo especial, se dio de alta en el marcado laser",
+    "git": "",
+    "Date": "8/05/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGC1A23D25KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/24/2026",
-    "Link":""
+    "Numero_de_parte": "RGC1A60D25KKEX20",
+    "Change_description": "Se dio de alta etiqueta con orden TA334721846001 y se actualizo templete",
+    "git": "",
+    "Date": "8/05/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"RGH1A60D15KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/24/2026",
-    "Link":""
+    "Numero_de_parte": "RSBS2332A2V23C10PAB",
+    "Change_description": "Etiqueta modificada, Formato con T y 530",
+    "git": "",
+    "Date": "7/30/2026",
+    "Link": ""
   },
   {
-    "Numero_de_parte":"ICT SPEA",
-    "Change_description":"R145, R148 and C111 on the Power board removed temporarily",
-    "git":"",
-    "Date":"7/24/2026",
-    "Link":""
+    "Numero_de_parte": "RM1C60D100",
+    "Change_description": "Secuencia dado de alta en prueba funcional manual",
+    "git": "6a7b438",
+    "Date": "7/31/2026",
+    "Link": ""
   },
-    {
-    "Numero_de_parte":"RGH1A60D31KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/23/2026",
-    "Link":""
+  {
+    "Numero_de_parte": "RM1C40D50",
+    "Change_description": "Secuencia dado de alta en prueba funcional manual",
+    "git": "eba0f68",
+    "Date": "7/31/2026",
+    "Link": ""
   },
-    {
-    "Numero_de_parte":"RGC1A23D20KKE",
-    "Change_description":"Etiqueta modificada, Formato con T y 53",
-    "git":"",
-    "Date":"7/31/2026",
-    "Link":""
+  {
+    "Numero_de_parte": "RKD2A23D50C",
+    "Change_description": "Marcado laser dado de alta",
+    "git": "",
+    "Date": "7/28/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RKD2A60D75C",
+    "Change_description": "Marcado laser dado de alta",
+    "git": "",
+    "Date": "7/28/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGS1A60D50KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/27/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGS1A60D90KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/27/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGC1A23D30KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/24/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGC1A60D20KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/24/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGC1A23D25KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/24/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGH1A60D15KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/24/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "ICT SPEA",
+    "Change_description": "R145, R148 and C111 on the Power board removed temporarily",
+    "git": "",
+    "Date": "7/24/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGH1A60D31KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/23/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGC1A23D20KKE",
+    "Change_description": "Etiqueta modificada, Formato con T y 53",
+    "git": "",
+    "Date": "7/31/2026",
+    "Link": ""
+  },
+  {
+    "Numero_de_parte": "RGS1APrueba",
+    "Change_description": "Prueba",
+    "git": "",
+    "Date": "hoy",
+    "Link": ""
   }
 ]
