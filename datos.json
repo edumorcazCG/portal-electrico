@@ -118,5 +118,11 @@
     "descripcion_de_falla": "analisis",
     "cantidad": 6,
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "test",
+    "descripcion_de_falla": "",
+    "cantidad": 1,
+    "imagen": ""
   }
 ]
