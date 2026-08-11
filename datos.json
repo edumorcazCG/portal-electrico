@@ -74,7 +74,7 @@
   {
     "numero_de_parte": "RA2A23040C",
     "descripcion_de_falla": "para analisis",
-    "cantidad": 102,
+    "cantidad": 192,
     "imagen": "RA2A.png"
   },
   {
@@ -90,9 +90,33 @@
     "imagen": "RM1E.png"
   },
   {
-    "numero_de_parte": "RSBS",
-    "descripcion_de_falla": "Test",
-    "cantidad": 1,
+    "numero_de_parte": "RSBS2332AV23C24PAB",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 32,
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RSBS2332AV23C00HP",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 3,
+    "imagen": ""
+  }
+  {
+    "numero_de_parte": "RSBS2332AV23C10PAB",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 47,
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "HDMS2325G0V20S449",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 37,
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "CRG1A60DKU-1",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 6,
     "imagen": ""
   }
 ]
