@@ -93,30 +93,30 @@
     "numero_de_parte": "RSBS2332AV23C24PAB",
     "descripcion_de_falla": "analisis",
     "cantidad": 32,
-    "imagen": ""
+    "imagen": "RSBS.png"
   },
   {
     "numero_de_parte": "RSBS2332AV23C00HP",
     "descripcion_de_falla": "analisis",
     "cantidad": 3,
-    "imagen": ""
+    "imagen": "RSBS.png"
   },
   {
     "numero_de_parte": "RSBS2332AV23C10PAB",
     "descripcion_de_falla": "analisis",
     "cantidad": 47,
-    "imagen": ""
+    "imagen": "RSBS.png"
   },
   {
     "numero_de_parte": "HDMS2325G0V20S449",
     "descripcion_de_falla": "analisis",
     "cantidad": 37,
-    "imagen": ""
+    "imagen": "HDMS.png"
   },
   {
     "numero_de_parte": "CRG1A60DKU-1",
     "descripcion_de_falla": "analisis",
     "cantidad": 6,
-    "imagen": ""
+    "imagen": "CRG1A60DKU-1.png"
   }
 ]
