@@ -130,5 +130,13 @@
     "cantidad": 6,
     "fecha_inicial": "8/11/2026",
     "imagen": "CRG1A60DKU-1.png"
+  },
+  {
+    "numero_de_parte": "RM1E60AA25",
+    "descripcion_de_falla": "PRUEBA FUNCIONAL",
+    "cantidad": 1,
+    "shop_order": "467869",
+    "fecha_inicial": "12/8/2026",
+    "imagen": ""
   }
 ]
