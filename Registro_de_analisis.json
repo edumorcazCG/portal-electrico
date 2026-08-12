@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1A60D50S378",
+    "descripcion_de_falla": "Falla en prueba funcional",
+    "cantidad": 8,
+    "shop_order": "472221",
+    "fecha_inicial": "12/8/2026"
+  }
+]
