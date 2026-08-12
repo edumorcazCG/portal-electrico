@@ -5,5 +5,12 @@
     "descripcion_de_falla": "test",
     "cantidad": 0,
     "fecha_inicial": "test"
+  },
+  {
+    "numero_de_parte": "RM1E60AA25",
+    "descripcion_de_falla": "PRUEBA FUNCIONAL",
+    "cantidad": 1,
+    "shop_order": "467869",
+    "fecha_inicial": "12/8/2026"
   }
 ]
