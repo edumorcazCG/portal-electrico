@@ -117,8 +117,10 @@
   },
   {
     "numero_de_parte": "HDMS2325G0V20S449",
+    "shop_order": "",
     "descripcion_de_falla": "analisis",
-    "cantidad": 37,
+    "cantidad": 7,
+    "fecha_inicial": "",
     "imagen": "HDMS.png"
   },
   {
