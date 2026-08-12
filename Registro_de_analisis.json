@@ -1,16 +1,9 @@
 [
   {
-    "numero_de_parte": "RSBS2332AV23C24PAB",
-    "descripcion_de_falla": "analisis",
-    "cantidad": 32,
-    "shop_order": "TA240459125",
-    "fecha_inicial": "6/11/2026"
-  },
-  {
-    "numero_de_parte": "RSBS2332AV_Test",
-    "descripcion_de_falla": "no enciende",
-    "cantidad": 10,
-    "shop_order": "123456",
-    "fecha_inicial": "12/8/2026"
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 0,
+    "fecha_inicial": "test"
   }
 ]
