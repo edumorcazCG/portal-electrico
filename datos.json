@@ -94,24 +94,24 @@
     "descripcion_de_falla": "analisis",
     "cantidad": 32,
     "imagen": "RSBS.png",
-    "shop_order":"TA240459125",
-    "fecha_inicial":"6/11/2026"
+    "shop_order": "TA240459125",
+    "fecha_inicial": "6/11/2026"
   },
   {
     "numero_de_parte": "RSBS2332AV23C00HP",
     "descripcion_de_falla": "analisis",
     "cantidad": 3,
     "imagen": "RSBS.png",
-    "shop_order":"TA30469490",
-    "fecha_inicial":"6/11/2026"
+    "shop_order": "TA30469490",
+    "fecha_inicial": "6/11/2026"
   },
   {
     "numero_de_parte": "RSBS2332A2V23C10PAB",
     "descripcion_de_falla": "analisis",
     "cantidad": 47,
     "imagen": "RSBS.png",
-    "shop_order":"TA30469487",
-    "fecha_inicial":"6/11/2026"
+    "shop_order": "TA30469487",
+    "fecha_inicial": "6/11/2026"
   },
   {
     "numero_de_parte": "HDMS2325G0V20S449",
@@ -121,8 +121,10 @@
   },
   {
     "numero_de_parte": "CRG1A60DKU-1",
+    "shop_order": "",
     "descripcion_de_falla": "analisis",
     "cantidad": 6,
+    "fecha_inicial": "8/11/2026",
     "imagen": "CRG1A60DKU-1.png"
   }
 ]
