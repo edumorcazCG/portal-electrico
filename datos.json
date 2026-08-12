@@ -67,8 +67,10 @@
   },
   {
     "numero_de_parte": "RM1A60D50",
-    "descripcion_de_falla": " analisis,  ",
+    "shop_order": "TA31472252",
+    "descripcion_de_falla": "analisis,",
     "cantidad": 1,
+    "fecha_inicial": "",
     "imagen": "RM1E.png"
   },
   {
