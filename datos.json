@@ -75,8 +75,10 @@
   },
   {
     "numero_de_parte": "RA2A23040C",
+    "shop_order": "",
     "descripcion_de_falla": "para analisis",
     "cantidad": 192,
+    "fecha_inicial": "",
     "imagen": "RA2A.png"
   },
   {
@@ -145,6 +147,14 @@
     "cantidad": 8,
     "shop_order": "472221",
     "fecha_inicial": "12/8/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 35,
+    "shop_order": "463840",
+    "fecha_inicial": "13/8/2026",
     "imagen": ""
   }
 ]
