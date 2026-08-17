@@ -156,5 +156,13 @@
     "shop_order": "463840",
     "fecha_inicial": "13/8/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 10,
+    "fecha_inicial": "8/17/2026",
+    "imagen": ""
   }
 ]
