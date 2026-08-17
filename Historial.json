@@ -9,5 +9,16 @@
     "fecha_fin": "8/17/2026",
     "causa_falla": "test",
     "ubicacion_final": "scrap"
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 1,
+    "fecha_inicial": "8/17/2026",
+    "imagen": "",
+    "fecha_fin": "test",
+    "causa_falla": "test",
+    "ubicacion_final": "test"
   }
 ]
