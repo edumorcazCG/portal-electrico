@@ -42,5 +42,16 @@
     "fecha_fin": "3",
     "causa_falla": "3",
     "ubicacion_final": "3"
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 4,
+    "fecha_inicial": "8/17/2026",
+    "imagen": "",
+    "fecha_fin": "4",
+    "causa_falla": "4",
+    "ubicacion_final": "4"
   }
 ]
