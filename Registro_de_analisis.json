@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RAM1A60A75S110",
+    "descripcion_de_falla": "Falla prueba funcional",
+    "cantidad": 5,
+    "shop_order": "473439",
+    "fecha_inicial": "17/8/2026"
+  }
+]
