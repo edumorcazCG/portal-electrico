@@ -20,5 +20,27 @@
     "fecha_fin": "test",
     "causa_falla": "test",
     "ubicacion_final": "test"
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 1,
+    "fecha_inicial": "8/17/2026",
+    "imagen": "",
+    "fecha_fin": "2",
+    "causa_falla": "2",
+    "ubicacion_final": "2"
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 1,
+    "fecha_inicial": "8/17/2026",
+    "imagen": "",
+    "fecha_fin": "3",
+    "causa_falla": "3",
+    "ubicacion_final": "3"
   }
 ]
