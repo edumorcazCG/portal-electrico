@@ -53,5 +53,16 @@
     "fecha_fin": "4",
     "causa_falla": "4",
     "ubicacion_final": "4"
+  },
+  {
+    "numero_de_parte": "RSBS2332AV23C24PAB",
+    "descripcion_de_falla": "analisis",
+    "cantidad": 22,
+    "imagen": "RSBS.png",
+    "shop_order": "TA240459125",
+    "fecha_inicial": "6/11/2026",
+    "fecha_fin": "8-18-2026",
+    "causa_falla": "Step 12 - 50% Power Unit Test",
+    "ubicacion_final": "PRODUCCION"
   }
 ]
