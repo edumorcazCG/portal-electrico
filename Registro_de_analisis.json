@@ -12,5 +12,12 @@
     "cantidad": 16,
     "shop_order": "472970",
     "fecha_inicial": "18/8/2026"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24SM74",
+    "descripcion_de_falla": "Falla en programacion",
+    "cantidad": 18,
+    "shop_order": "472970",
+    "fecha_inicial": "18/8/2026"
   }
 ]
