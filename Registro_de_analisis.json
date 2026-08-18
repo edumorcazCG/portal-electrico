@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RA2A23D40M",
+    "descripcion_de_falla": "Fallas en prueba FT/HV",
+    "cantidad": 11,
+    "shop_order": "447442",
+    "fecha_inicial": "18/8/2026"
+  }
+]
