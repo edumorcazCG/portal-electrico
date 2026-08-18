@@ -150,14 +150,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "test",
-    "shop_order": "test",
-    "descripcion_de_falla": "test",
-    "cantidad": 1,
-    "fecha_inicial": "8/17/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RAM1A60A75S110",
     "descripcion_de_falla": "Falla prueba funcional",
     "cantidad": 5,
