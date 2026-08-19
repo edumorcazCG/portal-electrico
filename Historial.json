@@ -9,5 +9,27 @@
     "fecha_fin": "8-18-2026",
     "causa_falla": "Step 12 - 50% Power Unit Test",
     "ubicacion_final": "PRODUCCION"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24SM74",
+    "descripcion_de_falla": "Prueba electrica",
+    "cantidad": 13,
+    "shop_order": "472970",
+    "fecha_inicial": "18/8/2026",
+    "imagen": "",
+    "fecha_fin": "8-19-2026",
+    "causa_falla": "2.01 AtmelIO1.GetSerialData",
+    "ubicacion_final": "produccion"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24SM74",
+    "descripcion_de_falla": "Falla en programacion",
+    "cantidad": 1,
+    "shop_order": "472970",
+    "fecha_inicial": "18/8/2026",
+    "imagen": "",
+    "fecha_fin": "8-19-2026",
+    "causa_falla": "micro dañado",
+    "ubicacion_final": "produccion"
   }
 ]
