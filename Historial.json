@@ -31,5 +31,16 @@
     "fecha_fin": "8-19-2026",
     "causa_falla": "micro dañado",
     "ubicacion_final": "produccion"
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "472761",
+    "fecha_inicial": "20/8/2026",
+    "imagen": "",
+    "fecha_fin": "8-20-2026",
+    "causa_falla": "TEST",
+    "ubicacion_final": "PRODUCCION"
   }
 ]
