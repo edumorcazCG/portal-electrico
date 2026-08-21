@@ -42,5 +42,16 @@
     "fecha_fin": "8-20-2026",
     "causa_falla": "TEST",
     "ubicacion_final": "PRODUCCION"
+  },
+  {
+    "numero_de_parte": "test",
+    "shop_order": "test",
+    "descripcion_de_falla": "test",
+    "cantidad": 100,
+    "fecha_inicial": "21/8/2026",
+    "imagen": "",
+    "fecha_fin": "8/21/2026",
+    "causa_falla": "dcrp",
+    "ubicacion_final": "produccion"
   }
 ]
