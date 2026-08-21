@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RA2A48D40M",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "472762",
+    "fecha_inicial": "20/8/2026",
+    "imagen": "",
+    "causa_falla": "MinOperation L1-T1 voltage",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "08/21/26 10:16:54"
+  },
+  {
     "numero_de_parte": "RSBS2332AV23C24PAB",
     "descripcion_de_falla": "analisis",
     "cantidad": 22,
