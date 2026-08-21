@@ -5,5 +5,12 @@
     "cantidad": 2,
     "shop_order": "454609",
     "fecha_inicial": "21/8/2026"
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "cantidad": 10,
+    "shop_order": "472761",
+    "fecha_inicial": "21/8/2026"
   }
 ]
