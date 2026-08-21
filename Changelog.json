@@ -1,10 +1,17 @@
 [
   {
+    "Numero_de_parte": "RA40110H10PCS",
+    "Change_description": "Se habilito la prueba electrica.",
+    "git": "",
+    "Link": "",
+    "Date": "08/21/26 09:17:52"
+  },
+  {
     "Numero_de_parte": "RGC1A23A30KKE",
     "Change_description": "Se modifico el limite superior de InputSource2.IMon de 30mA a 32mA",
     "git": "",
-    "Date": "8/10/2026",
-    "Link": ""
+    "Link": "",
+    "Date": "8/10/2026"
   },
   {
     "Numero_de_parte": "RGC1A60A25KKEP66",
