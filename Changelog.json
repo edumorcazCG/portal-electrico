@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RM1A60D50P56",
+    "Change_description": "Se modifico el voltaje de prueba de varistor de 880 volts a 840 volts.",
+    "git": "",
+    "Link": "",
+    "Date": "08/25/26 15:28:21"
+  },
+  {
     "Numero_de_parte": "RM1A23D25S18",
     "Change_description": "Se grego a prueba electrica RM1 manual.",
     "git": "",
