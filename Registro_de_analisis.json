@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1A23D25S75",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 2,
+    "shop_order": "474882",
+    "fecha_inicial": "25/8/2026"
+  }
+]
