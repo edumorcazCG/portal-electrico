@@ -12,5 +12,12 @@
     "cantidad": 10,
     "shop_order": "472761",
     "fecha_inicial": "25/8/2026"
+  },
+  {
+    "numero_de_parte": "RM1A60D50S447",
+    "descripcion_de_falla": "Falla en EOL",
+    "cantidad": 23,
+    "shop_order": "472235",
+    "fecha_inicial": "25/8/2026"
   }
 ]
