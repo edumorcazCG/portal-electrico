@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RGC1A60A42KGUS392",
+    "Change_description": "Se dio de alta en equipo de prueba RXU-021",
+    "git": "",
+    "Link": "",
+    "Date": "08/25/26 15:30:10"
+  },
+  {
     "Numero_de_parte": "RM1A60D50P56",
     "Change_description": "Se modifico el voltaje de prueba de varistor de 880 volts a 840 volts.",
     "git": "",
