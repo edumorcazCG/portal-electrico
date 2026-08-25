@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RM1A23D25S18",
+    "Change_description": "Se grego a prueba electrica RM1 manual.",
+    "git": "",
+    "Link": "",
+    "Date": "08/25/26 09:42:49"
+  },
+  {
     "Numero_de_parte": "RA40110H10PCS",
     "Change_description": "Se habilito la prueba electrica.",
     "git": "",
