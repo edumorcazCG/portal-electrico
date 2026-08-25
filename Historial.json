@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RM1A60D100",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 8,
+    "shop_order": "472220",
+    "fecha_inicial": "25/8/2026",
+    "imagen": "",
+    "causa_falla": "Varistor L1-L2",
+    "ubicacion_final": "PRODUCCION",
+    "fecha_fin": "08/25/26 14:07:00"
+  },
+  {
     "numero_de_parte": "RA2A23D40",
     "descripcion_de_falla": "Fallas en prueba electrica",
     "cantidad": 3,
