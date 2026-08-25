@@ -19,5 +19,12 @@
     "cantidad": 23,
     "shop_order": "472235",
     "fecha_inicial": "25/8/2026"
+  },
+  {
+    "numero_de_parte": "RM1A60D100",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 8,
+    "shop_order": "472220",
+    "fecha_inicial": "25/8/2026"
   }
 ]
