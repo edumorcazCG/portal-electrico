@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "cantidad": 6,
+    "shop_order": "472761",
+    "fecha_inicial": "26/8/2026"
+  }
+]
