@@ -12,5 +12,12 @@
     "cantidad": 6,
     "shop_order": "472761",
     "fecha_inicial": "25/8/2026"
+  },
+  {
+    "numero_de_parte": "RM1A60D50P56",
+    "descripcion_de_falla": "Falla en HV",
+    "cantidad": 8,
+    "shop_order": "472252",
+    "fecha_inicial": "25/8/2026"
   }
 ]
