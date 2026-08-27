@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1A60A100",
+    "descripcion_de_falla": "Falla en prueba EOL",
+    "cantidad": 23,
+    "shop_order": "472250",
+    "fecha_inicial": "27/8/2026"
+  }
+]
