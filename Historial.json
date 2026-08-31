@@ -1,6 +1,17 @@
 [
   {
     "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 10,
+    "shop_order": "472761",
+    "fecha_inicial": "25/8/2026",
+    "imagen": "",
+    "causa_falla": "high current",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "08/31/26 13:27:34"
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
     "descripcion_de_falla": "Fallas en prueba electrica",
     "cantidad": 7,
     "shop_order": "472761",
