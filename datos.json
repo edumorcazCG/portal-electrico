@@ -292,5 +292,29 @@
     "shop_order": "472761",
     "fecha_inicial": "26/8/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A60A100",
+    "descripcion_de_falla": "Falla en prueba EOL",
+    "cantidad": 23,
+    "shop_order": "472250",
+    "fecha_inicial": "27/8/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A23D25S18",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 6,
+    "shop_order": "472253",
+    "fecha_inicial": "27/8/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A60D50S333",
+    "descripcion_de_falla": "Falla en prueba electricas",
+    "cantidad": 6,
+    "shop_order": "468989",
+    "fecha_inicial": "29/8/2026",
+    "imagen": ""
   }
 ]
