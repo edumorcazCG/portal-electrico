@@ -1,16 +1,1 @@
-[
-  {
-    "numero_de_parte": "RA4850-D12S138",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 7,
-    "shop_order": "465051",
-    "fecha_inicial": "31/8/2026"
-  },
-  {
-    "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 13,
-    "shop_order": "472761",
-    "fecha_inicial": "1/9/2026"
-  }
-]
+[]
