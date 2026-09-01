@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RM1A60A100",
+    "descripcion_de_falla": "Falla en prueba EOL",
+    "cantidad": 23,
+    "shop_order": "472250",
+    "fecha_inicial": "27/8/2026",
+    "imagen": "",
+    "causa_falla": "ajuste de parametros en maquina",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/01/26 14:25:12"
+  },
+  {
     "numero_de_parte": "RA2A23D40",
     "descripcion_de_falla": "Falla en prueba electrica",
     "cantidad": 2,
