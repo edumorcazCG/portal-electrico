@@ -222,27 +222,11 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 1,
-    "shop_order": "472761",
-    "fecha_inicial": "25/8/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RM1E23V50",
     "descripcion_de_falla": "Falla en prueba electrica",
     "cantidad": 7,
     "shop_order": "454609",
     "fecha_inicial": "25/8/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 6,
-    "shop_order": "472761",
-    "fecha_inicial": "26/8/2026",
     "imagen": ""
   },
   {
@@ -256,7 +240,7 @@
   {
     "numero_de_parte": "RA2A23D40",
     "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 5,
+    "cantidad": 3,
     "shop_order": "472761",
     "fecha_inicial": "26/8/2026",
     "imagen": ""
