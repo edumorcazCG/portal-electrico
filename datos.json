@@ -279,11 +279,16 @@
   },
   {
     "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 13,
     "shop_order": "472761",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "Terminal con goma",
+    "rework": "Se limpiaron terminales",
+    "status": "Pendiente",
+    "cantidad": 13,
+    "comentarios": "",
     "fecha_inicial": "1/9/2026",
-    "imagen": ""
+    "imagen": "Terminal.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA4850-D12S138",
