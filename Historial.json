@@ -1,5 +1,38 @@
 [
   {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "cantidad": 2,
+    "shop_order": "472761",
+    "fecha_inicial": "26/8/2026",
+    "imagen": "",
+    "causa_falla": "cable G3 desoldados",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/01/26 18:52:09"
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "cantidad": 6,
+    "shop_order": "472761",
+    "fecha_inicial": "26/8/2026",
+    "imagen": "",
+    "causa_falla": "terminlaes con goma",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/01/26 18:51:29"
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "472761",
+    "fecha_inicial": "25/8/2026",
+    "imagen": "",
+    "causa_falla": "capacitor c4 dañado",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/01/26 18:51:02"
+  },
+  {
     "numero_de_parte": "RM1A60A100",
     "descripcion_de_falla": "Falla en prueba EOL",
     "cantidad": 23,
