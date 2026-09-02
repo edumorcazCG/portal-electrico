@@ -5,5 +5,12 @@
     "cantidad": 5,
     "shop_order": "474875",
     "fecha_inicial": "2/9/2026"
+  },
+  {
+    "numero_de_parte": "RM1A23A50",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 2,
+    "shop_order": "474875",
+    "fecha_inicial": "2/9/2026"
   }
 ]
