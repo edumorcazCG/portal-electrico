@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1A60A100",
+    "shop_order": "472250",
+    "descripcion_de_falla": "Falla de HV",
+    "analisis": "soldadura fria en gates",
+    "rework": "se resoldaron cables del gate",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "fecha_inicial": "2/9/2026",
+    "imagen": "",
+    "evidencia": [],
+    "causa_falla": "HV",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/02/26 15:15:33"
+  },
+  {
     "numero_de_parte": "RA2A23D40",
     "descripcion_de_falla": "Falla de prueba electrica",
     "cantidad": 2,
