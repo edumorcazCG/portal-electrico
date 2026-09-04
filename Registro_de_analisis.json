@@ -5,5 +5,12 @@
     "cantidad": 9,
     "shop_order": "472761",
     "fecha_inicial": "3/9/2026"
+  },
+  {
+    "numero_de_parte": "RGC1A60D20KGU",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 5,
+    "shop_order": "477846",
+    "fecha_inicial": "4/9/2026"
   }
 ]
