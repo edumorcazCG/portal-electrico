@@ -321,5 +321,37 @@
     "shop_order": "474877",
     "fecha_inicial": "3/9/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A23D50",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 14,
+    "shop_order": "474881",
+    "fecha_inicial": "4/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RGC1A23D20KGU",
+    "descripcion_de_falla": "Falla en pruena electrica",
+    "cantidad": 2,
+    "shop_order": "477847",
+    "fecha_inicial": "4/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RGC1A60D20KGU",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 5,
+    "shop_order": "477846",
+    "fecha_inicial": "4/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A23D40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 9,
+    "shop_order": "472761",
+    "fecha_inicial": "3/9/2026",
+    "imagen": ""
   }
 ]
