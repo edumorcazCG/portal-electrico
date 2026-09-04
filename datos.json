@@ -159,19 +159,16 @@
   },
   {
     "numero_de_parte": "RSBS2332A2V23C24SM74",
-    "descripcion_de_falla": "Prueba electrica",
-    "cantidad": 3,
     "shop_order": "472970",
-    "fecha_inicial": "18/8/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RSBS2332A2V23C24SM74",
     "descripcion_de_falla": "Falla en programacion",
-    "cantidad": 17,
-    "shop_order": "472970",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 1,
+    "comentarios": "",
     "fecha_inicial": "18/8/2026",
-    "imagen": ""
+    "imagen": "",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D40M",
