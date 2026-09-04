@@ -1,5 +1,27 @@
 [
   {
+    "numero_de_parte": "RGC1A60D20KGU",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 5,
+    "shop_order": "477846",
+    "fecha_inicial": "4/9/2026",
+    "imagen": "",
+    "causa_falla": "faltaba varistor",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/04/26 13:29:07"
+  },
+  {
+    "numero_de_parte": "RGC1A23D20KGU",
+    "descripcion_de_falla": "Falla en pruena electrica",
+    "cantidad": 2,
+    "shop_order": "477847",
+    "fecha_inicial": "4/9/2026",
+    "imagen": "",
+    "causa_falla": "faltaba varistor",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/04/26 13:28:49"
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24SM74",
     "shop_order": "472970",
     "descripcion_de_falla": "Falla en programacion",
