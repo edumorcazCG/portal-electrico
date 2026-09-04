@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RA2A23D40",
+    "shop_order": "472761",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "Terminal con goma",
+    "rework": "Se limpiaron terminales",
+    "status": "Pendiente",
+    "cantidad": 13,
+    "comentarios": "",
+    "fecha_inicial": "1/9/2026",
+    "imagen": "Terminal.png",
+    "evidencia": [],
+    "causa_falla": "terminales con goma",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/03/26 17:38:59"
+  },
+  {
+    "numero_de_parte": "RM1A60D75",
+    "shop_order": "477396",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "ajuste eel capacitor usado es de menos voltaje que el que la maquina tiene programadado",
+    "rework": "ajustar parametros en prueba",
+    "status": "Cerrado",
+    "cantidad": 15,
+    "comentarios": "pasaron",
+    "fecha_inicial": "3/9/2026",
+    "imagen": "",
+    "evidencia": [],
+    "causa_falla": "capacitor con otras caracteristicas",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/03/26 17:38:19"
+  },
+  {
     "numero_de_parte": "RM1A60A100",
     "shop_order": "472250",
     "descripcion_de_falla": "Falla de HV",
