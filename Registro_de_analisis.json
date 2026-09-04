@@ -19,5 +19,12 @@
     "cantidad": 2,
     "shop_order": "477847",
     "fecha_inicial": "4/9/2026"
+  },
+  {
+    "numero_de_parte": "RM1A23D50",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 14,
+    "shop_order": "474881",
+    "fecha_inicial": "4/9/2026"
   }
 ]
