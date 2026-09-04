@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24SM74",
+    "shop_order": "472970",
+    "descripcion_de_falla": "Falla en programacion",
+    "analisis": "micro defectuoso",
+    "rework": "cambiar micro",
+    "status": "Pendiente",
+    "cantidad": 16,
+    "comentarios": "pasaron",
+    "fecha_inicial": "18/8/2026",
+    "imagen": "",
+    "evidencia": [],
+    "causa_falla": "no programan",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/03/26 17:42:58"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24SM74",
+    "shop_order": "472970",
+    "descripcion_de_falla": "Prueba electrica",
+    "analisis": "micro defectruoso",
+    "rework": "cambiar Micro",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "pasaron",
+    "fecha_inicial": "18/8/2026",
+    "imagen": "",
+    "evidencia": [],
+    "causa_falla": "no programan",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/03/26 17:41:25"
+  },
+  {
     "numero_de_parte": "RA2A23D40",
     "shop_order": "472761",
     "descripcion_de_falla": "Falla en prueba electrica",
