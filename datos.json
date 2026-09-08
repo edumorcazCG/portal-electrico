@@ -179,14 +179,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RA2A48D40M",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 4,
-    "shop_order": "472762",
-    "fecha_inicial": "20/8/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RM1A60D50S447",
     "descripcion_de_falla": "Falla en EOL",
     "cantidad": 23,
@@ -336,6 +328,22 @@
     "cantidad": 9,
     "shop_order": "472761",
     "fecha_inicial": "3/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A23A25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 19,
+    "shop_order": "477830",
+    "fecha_inicial": "7/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1E23AA25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 24,
+    "shop_order": "462158",
+    "fecha_inicial": "7/9/2026",
     "imagen": ""
   }
 ]
