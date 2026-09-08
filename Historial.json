@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RA2A48D40M",
+    "shop_order": "472762",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "se reviso parametro de pruebas",
+    "rework": "volver a probar",
+    "status": "Cerrado",
+    "cantidad": 4,
+    "comentarios": "",
+    "causa_falla": "no se encontro falla",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "20/8/2026",
+    "fecha_fin": "09/08/26 15:00:45",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RGC1A60D20KGU",
     "shop_order": "477846",
     "descripcion_de_falla": "Falla en prueba electrica",
