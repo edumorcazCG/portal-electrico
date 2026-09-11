@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "HDMS2325G0V20S449",
+    "descripcion_de_falla": "Falla prueba electrica",
+    "cantidad": 5,
+    "shop_order": "473615",
+    "fecha_inicial": "11/9/2026"
+  }
+]
