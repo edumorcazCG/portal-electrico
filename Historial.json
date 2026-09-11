@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RM1E23AA25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 20,
+    "shop_order": "462158",
+    "fecha_inicial": "7/9/2026",
+    "imagen": "",
+    "causa_falla": "crystal invertido",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/11/26 06:57:05"
+  },
+  {
     "numero_de_parte": "RA2A48D40M",
     "shop_order": "472762",
     "descripcion_de_falla": "Falla en prueba electrica",
