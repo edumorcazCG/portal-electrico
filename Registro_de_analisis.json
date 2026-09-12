@@ -5,5 +5,12 @@
     "cantidad": 5,
     "shop_order": "473615",
     "fecha_inicial": "11/9/2026"
+  },
+  {
+    "numero_de_parte": "RM1E23AA25",
+    "descripcion_de_falla": "Fallas en pruena elecrica",
+    "cantidad": 114,
+    "shop_order": "460284",
+    "fecha_inicial": "12/9/2026"
   }
 ]
