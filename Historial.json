@@ -1,11 +1,27 @@
 [
   {
+    "numero_de_parte": "HDMS2325G0V20S449",
+    "shop_order": "473615",
+    "descripcion_de_falla": "Falla prueba electrica",
+    "analisis": "pins de maquina sucios",
+    "rework": "volver a probar",
+    "status": "Cerrado",
+    "cantidad": 5,
+    "comentarios": "",
+    "causa_falla": "mal contacto en maquina",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "11/9/2026",
+    "fecha_fin": "09/14/26 14:56:18",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1E23AA25",
     "shop_order": "462158",
     "descripcion_de_falla": "Falla en prueba electrica",
     "analisis": "crystal invertido",
     "rework": "cambiar crystal",
-    "status": "Pendiente",
+    "status": "Cerrado",
     "cantidad": 20,
     "comentarios": "en hold por prioridades",
     "causa_falla": "crystal invertido",
