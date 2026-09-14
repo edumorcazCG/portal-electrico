@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RGC1A60A62KGU",
+    "Change_description": "Se actualizo etiqueta, se agrego Assembled in Mexico, Se le asigno un nuevo templete para no compartirlo con otro modelo, E0976",
+    "git": "",
+    "Link": "",
+    "Date": "09/14/26 08:30:42"
+  },
+  {
     "Numero_de_parte": "RGC1A60A25KKE",
     "Change_description": "Alta de etiqeuta",
     "git": "",
