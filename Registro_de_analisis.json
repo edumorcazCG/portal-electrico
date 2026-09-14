@@ -68,5 +68,12 @@
     "cantidad": 2,
     "shop_order": "472765",
     "fecha_inicial": "14/9/2026"
+  },
+  {
+    "numero_de_parte": "RM1E23V50S293",
+    "descripcion_de_falla": "Falla en programacion",
+    "cantidad": 59,
+    "shop_order": "477411",
+    "fecha_inicial": "14/9/2026"
   }
 ]
