@@ -5,5 +5,12 @@
     "cantidad": 7,
     "shop_order": "478848",
     "fecha_inicial": "15/9/2026"
+  },
+  {
+    "numero_de_parte": "RGS1A60d92KGE",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "460459",
+    "fecha_inicial": "15/9/2026"
   }
 ]
