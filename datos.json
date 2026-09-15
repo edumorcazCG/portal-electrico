@@ -228,19 +228,31 @@
   },
   {
     "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 3,
     "shop_order": "472761",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 3,
+    "comentarios": "",
     "fecha_inicial": "26/8/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 6,
     "shop_order": "472761",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 6,
+    "comentarios": "",
     "fecha_inicial": "26/8/2026",
-    "imagen": ""
+    "imagen": "",
+    "evidencia": [
+      "RA2A.png"
+    ]
   },
   {
     "numero_de_parte": "RA2A23D40",
@@ -348,11 +360,16 @@
   },
   {
     "numero_de_parte": "HDMS2325G0V20S449",
-    "descripcion_de_falla": "Fallas en prueba electrica",
-    "cantidad": 22,
     "shop_order": "473615",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 22,
+    "comentarios": "",
     "fecha_inicial": "14/9/2026",
-    "imagen": ""
+    "imagen": "HDMS.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RM1E23V50S293",
@@ -364,51 +381,81 @@
   },
   {
     "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 2,
     "shop_order": "472765",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 2,
+    "comentarios": "",
     "fecha_inicial": "14/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 1,
     "shop_order": "472765",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 1,
+    "comentarios": "",
     "fecha_inicial": "12/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A48D40",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 1,
     "shop_order": "472763",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 1,
+    "comentarios": "",
     "fecha_inicial": "12/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 7,
     "shop_order": "472765",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 7,
+    "comentarios": "",
     "fecha_inicial": "12/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A48D25",
-    "descripcion_de_falla": "Fallas en prueba electrica",
-    "cantidad": 4,
     "shop_order": "472764",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 4,
+    "comentarios": "",
     "fecha_inicial": "12/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 3,
     "shop_order": "472765",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 3,
+    "comentarios": "",
     "fecha_inicial": "12/9/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA2A23D40CH88P86",
