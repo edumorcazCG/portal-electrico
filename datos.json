@@ -256,11 +256,16 @@
   },
   {
     "numero_de_parte": "RA2A23D40",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 6,
     "shop_order": "472761",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 6,
+    "comentarios": "",
     "fecha_inicial": "26/8/2026",
-    "imagen": ""
+    "imagen": "RA2A.png",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RM1A23D25S18",
