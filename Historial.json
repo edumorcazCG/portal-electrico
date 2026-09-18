@@ -2,6 +2,22 @@
   {
     "numero_de_parte": "HDMS2325G0V20S449",
     "shop_order": "473615",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "analisis": "",
+    "rework": "",
+    "status": "Pendiente",
+    "cantidad": 10,
+    "comentarios": "",
+    "fecha_inicial": "14/9/2026",
+    "imagen": "HDMS.png",
+    "evidencia": [],
+    "causa_falla": "componentes quemados y falta de soldadura",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/18/26 08:15:39"
+  },
+  {
+    "numero_de_parte": "HDMS2325G0V20S449",
+    "shop_order": "473615",
     "descripcion_de_falla": "Falla prueba electrica",
     "analisis": "pins de maquina sucios",
     "rework": "volver a probar",
