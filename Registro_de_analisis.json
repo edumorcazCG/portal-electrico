@@ -19,5 +19,12 @@
     "cantidad": 1,
     "shop_order": "477834",
     "fecha_inicial": "15/9/2026"
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH88P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 9,
+    "shop_order": "478848",
+    "fecha_inicial": "17/9/2026"
   }
 ]
