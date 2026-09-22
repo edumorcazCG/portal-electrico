@@ -26,5 +26,12 @@
     "cantidad": 9,
     "shop_order": "478848",
     "fecha_inicial": "17/9/2026"
+  },
+  {
+    "numero_de_parte": "RA2A48D40S378",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 8,
+    "shop_order": "478842",
+    "fecha_inicial": "22/9/2026"
   }
 ]
