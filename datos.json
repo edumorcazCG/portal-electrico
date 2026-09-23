@@ -485,5 +485,69 @@
     "shop_order": "460284",
     "fecha_inicial": "12/9/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA6025-D12S45X40",
+    "descripcion_de_falla": "Fallan en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA6025-D12S45X40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 22,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "ra6025d12545x40",
+    "descripcion_de_falla": "pe fALLA",
+    "cantidad": 48,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A48D40S378",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 8,
+    "shop_order": "478842",
+    "fecha_inicial": "22/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH88P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 9,
+    "shop_order": "478848",
+    "fecha_inicial": "17/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RGS1A60A92KGE",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "477834",
+    "fecha_inicial": "15/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RGS1A60d92KGE",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "460459",
+    "fecha_inicial": "15/9/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH88P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 7,
+    "shop_order": "478848",
+    "fecha_inicial": "15/9/2026",
+    "imagen": ""
   }
 ]
