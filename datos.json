@@ -364,19 +364,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "HDMS2325G0V20S449",
-    "shop_order": "473615",
-    "descripcion_de_falla": "Fallas en prueba electrica",
-    "analisis": "",
-    "rework": "",
-    "status": "Pendiente",
-    "cantidad": 1,
-    "comentarios": "",
-    "fecha_inicial": "14/9/2026",
-    "imagen": "HDMS.png",
-    "evidencia": []
-  },
-  {
     "numero_de_parte": "RM1E23V50S293",
     "descripcion_de_falla": "Falla en programacion",
     "cantidad": 59,
@@ -401,19 +388,6 @@
     "numero_de_parte": "RA2A23D25",
     "shop_order": "472765",
     "descripcion_de_falla": "Falla en prueba electrica",
-    "analisis": "",
-    "rework": "",
-    "status": "Pendiente",
-    "cantidad": 1,
-    "comentarios": "",
-    "fecha_inicial": "12/9/2026",
-    "imagen": "RA2A.png",
-    "evidencia": []
-  },
-  {
-    "numero_de_parte": "RA2A48D40",
-    "shop_order": "472763",
-    "descripcion_de_falla": "Falla de prueba electrica",
     "analisis": "",
     "rework": "",
     "status": "Pendiente",
@@ -508,14 +482,6 @@
     "cantidad": 48,
     "shop_order": "465048",
     "fecha_inicial": "23/9/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RA2A48D40S378",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 8,
-    "shop_order": "478842",
-    "fecha_inicial": "22/9/2026",
     "imagen": ""
   },
   {
