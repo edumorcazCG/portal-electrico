@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E23AA25",
+    "shop_order": "460284",
+    "descripcion_de_falla": "Fallas en pruena elecrica",
+    "analisis": "se puso resistencia de 680 y debe de llevar de 220 kh",
+    "rework": "cambiar resistencias",
+    "status": "Cerrado",
+    "cantidad": 114,
+    "comentarios": "error en planos ilustrados",
+    "causa_falla": "resistencias equiebocadas",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "12/9/2026",
+    "fecha_fin": "09/23/26 16:18:41",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA2A48D40",
     "shop_order": "472763",
     "descripcion_de_falla": "Falla de prueba electrica",
