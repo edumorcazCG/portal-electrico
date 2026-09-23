@@ -33,5 +33,12 @@
     "cantidad": 8,
     "shop_order": "478842",
     "fecha_inicial": "22/9/2026"
+  },
+  {
+    "numero_de_parte": "ra6025d12545x40",
+    "descripcion_de_falla": "pe fALLA",
+    "cantidad": 48,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026"
   }
 ]
