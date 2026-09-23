@@ -40,5 +40,12 @@
     "cantidad": 48,
     "shop_order": "465048",
     "fecha_inicial": "23/9/2026"
+  },
+  {
+    "numero_de_parte": "RA6025-D12S45X40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 22,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026"
   }
 ]
