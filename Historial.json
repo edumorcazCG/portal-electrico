@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RM1E23V50S293",
+    "descripcion_de_falla": "Falla en programacion",
+    "cantidad": 59,
+    "shop_order": "477411",
+    "fecha_inicial": "14/9/2026",
+    "imagen": "",
+    "causa_falla": "Fallas en estacion de prueba",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/24/26 11:17:49"
+  },
+  {
     "numero_de_parte": "RA6025-D12S45X40",
     "shop_order": "465048",
     "descripcion_de_falla": "Falla en prueba electrica",
@@ -13,7 +24,9 @@
     "fecha_inicial": "23/9/2026",
     "fecha_fin": "09/24/26 10:31:05",
     "imagen": "Screenshot 2026-09-24 103720.png",
-    "evidencia": []
+    "evidencia": [
+      "Screenshot 2026-09-24 103720.png"
+    ]
   },
   {
     "numero_de_parte": "ra6025d12545x40",
