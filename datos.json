@@ -364,14 +364,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RM1E23V50S293",
-    "descripcion_de_falla": "Falla en programacion",
-    "cantidad": 59,
-    "shop_order": "477411",
-    "fecha_inicial": "14/9/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RA2A23D25",
     "shop_order": "472765",
     "descripcion_de_falla": "Falla en prueba electrica",
