@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E48AA25",
+    "shop_order": "454615",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "se encontro resistencia de 220k y debe llevar de 680",
+    "rework": "cambiar resistencia",
+    "status": "Cerrado",
+    "cantidad": 12,
+    "comentarios": "mal planos ilustrados",
+    "causa_falla": "resistencia equibocada",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "24/9/2026",
+    "fecha_fin": "09/24/26 11:49:19",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1E23V50S293",
     "shop_order": "477411",
     "descripcion_de_falla": "Falla en programacion",
