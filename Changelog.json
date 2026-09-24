@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RA2A48D40S378",
+    "Change_description": "Se ajusto parametro varistor L1T1 y L2T2 de  0.24 mA a 0.31 mA",
+    "git": "",
+    "Link": "",
+    "Date": "09/23/26 17:03:31"
+  },
+  {
     "Numero_de_parte": "RGC1A60D42KGEP13",
     "Change_description": "Se actualize etiqueta, se agrego Assembled in Mexico, Se actualizaron los Barcode order number y EAN number.",
     "git": "",
