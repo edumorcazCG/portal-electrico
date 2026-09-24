@@ -1,5 +1,38 @@
 [
   {
+    "numero_de_parte": "RA6025-D12S45X40",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 22,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": "",
+    "causa_falla": "componenetes invertidos",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/24/26 10:31:05"
+  },
+  {
+    "numero_de_parte": "ra6025d12545x40",
+    "descripcion_de_falla": "pe fALLA",
+    "cantidad": 48,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": "",
+    "causa_falla": "componentes invertidos",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/24/26 10:30:32"
+  },
+  {
+    "numero_de_parte": "RA6025-D12S45X40",
+    "descripcion_de_falla": "Fallan en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "465048",
+    "fecha_inicial": "23/9/2026",
+    "imagen": "",
+    "causa_falla": "componentes invertidos",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "09/24/26 10:30:03"
+  },
+  {
     "numero_de_parte": "RM1E23AA25",
     "shop_order": "460284",
     "descripcion_de_falla": "Fallas en pruena elecrica",
