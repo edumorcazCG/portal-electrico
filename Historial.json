@@ -1,14 +1,19 @@
 [
   {
     "numero_de_parte": "RM1E23V50S293",
-    "descripcion_de_falla": "Falla en programacion",
-    "cantidad": 59,
     "shop_order": "477411",
-    "fecha_inicial": "14/9/2026",
-    "imagen": "",
+    "descripcion_de_falla": "Falla en programacion",
+    "analisis": "Cable usb desconectado en estacion de prueba",
+    "rework": "volver a probar",
+    "status": "Cerrado",
+    "cantidad": 59,
+    "comentarios": "swicht on/off de fixtura invertido",
     "causa_falla": "Fallas en estacion de prueba",
     "ubicacion_final": "produccion",
-    "fecha_fin": "09/24/26 11:17:49"
+    "fecha_inicial": "14/9/2026",
+    "fecha_fin": "09/24/26 11:17:49",
+    "imagen": "",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RA6025-D12S45X40",
