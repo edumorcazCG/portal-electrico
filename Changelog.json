@@ -189,11 +189,11 @@
     "Link": ""
   },
   {
-    "Numero_de_parte": "RGC1A60A20KKE",
-    "Change_description": "Se actualizo etiqueta con orden TA31472175",
+    "Numero_de_parte": "RA2A48D40S378",
+    "Change_description": "Ajuste parametro Varistor L1T1 y L2T2 de 0.24 a 0.31 mA",
     "git": "",
-    "Date": "8/07/2026",
-    "Link": ""
+    "Link": "",
+    "Date": "8/07/2026"
   },
   {
     "Numero_de_parte": "RKD2B60D50PS379",
