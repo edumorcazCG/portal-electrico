@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1E48AA25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 12,
+    "shop_order": "454615",
+    "fecha_inicial": "24/9/2026"
+  }
+]
