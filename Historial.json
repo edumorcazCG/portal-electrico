@@ -1,25 +1,35 @@
 [
   {
     "numero_de_parte": "RGS1A60d92KGE",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 3,
     "shop_order": "460459",
-    "fecha_inicial": "15/9/2026",
-    "imagen": "",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "power board defectuoso",
+    "rework": "cambiar power board",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "",
     "causa_falla": "power board defectuoso",
     "ubicacion_final": "produccion",
-    "fecha_fin": "09/24/26 17:14:47"
+    "fecha_inicial": "15/9/2026",
+    "fecha_fin": "09/24/26 17:14:47",
+    "imagen": "",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RGS1A60A92KGE",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 1,
     "shop_order": "477834",
-    "fecha_inicial": "15/9/2026",
-    "imagen": "",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "power board defectuoso",
+    "rework": "cambiar power board",
+    "status": "Cerrado",
+    "cantidad": 1,
+    "comentarios": "",
     "causa_falla": "power board defectuoso",
     "ubicacion_final": "produccion",
-    "fecha_fin": "09/24/26 17:14:22"
+    "fecha_inicial": "15/9/2026",
+    "fecha_fin": "09/24/26 17:14:22",
+    "imagen": "",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RM1E48AA25",
