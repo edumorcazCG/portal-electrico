@@ -453,22 +453,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RGS1A60A92KGE",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 1,
-    "shop_order": "477834",
-    "fecha_inicial": "15/9/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RGS1A60d92KGE",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 3,
-    "shop_order": "460459",
-    "fecha_inicial": "15/9/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RA2A23D40CH88P86",
     "descripcion_de_falla": "Falla en prueba electrica",
     "cantidad": 7,
