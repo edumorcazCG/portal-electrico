@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1E60AA100",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 14,
+    "shop_order": "454600",
+    "fecha_inicial": "25/9/2026"
+  }
+]
