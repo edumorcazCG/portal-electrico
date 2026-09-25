@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1C60D100",
+    "shop_order": "478189",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "no estaban programadas",
+    "rework": "reprogramar",
+    "status": "Cerrado",
+    "cantidad": 4,
+    "comentarios": "pasadas",
+    "causa_falla": "mal programadas",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "25/9/2026",
+    "fecha_fin": "09/25/26 11:51:23",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RGS1A60d92KGE",
     "shop_order": "460459",
     "descripcion_de_falla": "Falla en prueba electrica",
