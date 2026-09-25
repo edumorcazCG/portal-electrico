@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1C60D100",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 4,
+    "shop_order": "478189",
+    "fecha_inicial": "25/9/2026"
+  }
+]
