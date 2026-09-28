@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E23AA25",
+    "shop_order": "462158",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "cristal invertido",
+    "rework": "cambiar cristal",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "pasaron",
+    "causa_falla": "cristal defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "7/9/2026",
+    "fecha_fin": "09/28/26 16:01:46",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1E60AA25",
     "shop_order": "467869",
     "descripcion_de_falla": "PRUEBA FUNCIONAL",
