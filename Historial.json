@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E60AA25",
+    "shop_order": "467869",
+    "descripcion_de_falla": "PRUEBA FUNCIONAL",
+    "analisis": "se ajusto parametro en maquina",
+    "rework": "volver aprobar",
+    "status": "Cerrado",
+    "cantidad": 1,
+    "comentarios": "",
+    "causa_falla": "parametros en maquina",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "12/8/2026",
+    "fecha_fin": "09/28/26 11:49:51",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1C60D100",
     "shop_order": "478189",
     "descripcion_de_falla": "Falla en prueba electrica",
