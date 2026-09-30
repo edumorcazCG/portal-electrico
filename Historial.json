@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E23V25",
+    "shop_order": "477400",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "crystal en corto popr soldadura y mal programados",
+    "rework": "programarlos y quitar corto",
+    "status": "Cerrado",
+    "cantidad": 10,
+    "comentarios": "",
+    "causa_falla": "crystal en corto y mal programados",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "30/9/2026",
+    "fecha_fin": "09/30/26 11:45:25",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "480156",
     "descripcion_de_falla": "Placa control fallada",
