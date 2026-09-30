@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1E23V25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 10,
+    "shop_order": "477400",
+    "fecha_inicial": "30/9/2026"
+  }
+]
