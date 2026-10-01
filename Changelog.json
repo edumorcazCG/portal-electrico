@@ -1,5 +1,12 @@
 [
   {
+    "Numero_de_parte": "RGS1A60D92KGE",
+    "Change_description": "Se actualize etiqueta, Se agrego Assembled in Mexico",
+    "git": "",
+    "Link": "",
+    "Date": "10/01/26 07:38:51"
+  },
+  {
     "Numero_de_parte": "RA2A48D40S378",
     "Change_description": "Se ajusto parametro varistor L1T1 y L2T2 de  0.24 mA a 0.31 mA",
     "git": "",
