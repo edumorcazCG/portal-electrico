@@ -1,14 +1,19 @@
 [
   {
     "numero_de_parte": "RM1E60AA100",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 14,
     "shop_order": "454600",
-    "fecha_inicial": "25/9/2026",
-    "imagen": "",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "resistencia equibocada debe llevar de 1.8 M",
+    "rework": "cambiar resistencia",
+    "status": "Cerrado",
+    "cantidad": 14,
+    "comentarios": "equivocacion de produccion por material mal identificado",
     "causa_falla": "resistencia equibocada",
     "ubicacion_final": "produccion",
-    "fecha_fin": "10/01/26 06:39:54"
+    "fecha_inicial": "25/9/2026",
+    "fecha_fin": "10/01/26 06:39:54",
+    "imagen": "",
+    "evidencia": []
   },
   {
     "numero_de_parte": "RM1E23V25",
