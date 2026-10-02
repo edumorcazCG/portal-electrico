@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1A60D50P56",
+    "shop_order": "472252",
+    "descripcion_de_falla": "Falla en HV",
+    "analisis": "se puso nuevo varistor amarillo",
+    "rework": "se ajustaron parametros en maquina",
+    "status": "Cerrado",
+    "cantidad": 8,
+    "comentarios": "",
+    "causa_falla": "varistor",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "25/8/2026",
+    "fecha_fin": "10/02/26 12:31:20",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1C60D25",
     "shop_order": "454611",
     "descripcion_de_falla": "Falla en prueba electrica",
