@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC1A23D30KGU",
+    "shop_order": "480467",
+    "descripcion_de_falla": "Falla de placa control RG",
+    "analisis": "opto defectuoso",
+    "rework": "cambiar optp",
+    "status": "Pendiente",
+    "cantidad": 19,
+    "comentarios": "",
+    "causa_falla": "se activa sin el voltaje del control",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "5/10/2026",
+    "fecha_fin": "10/05/26 12:13:18",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "descripcion_de_falla": "Falla de prueba electrica",
     "cantidad": 1,
