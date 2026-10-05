@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "cantidad": 1,
+    "shop_order": "480156",
+    "fecha_inicial": "30/9/2026",
+    "imagen": "",
+    "causa_falla": "pin desoldado",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "10/05/26 06:52:33"
+  },
+  {
     "numero_de_parte": "RM1A60D50P56",
     "shop_order": "472252",
     "descripcion_de_falla": "Falla en HV",
