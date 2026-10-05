@@ -467,5 +467,13 @@
     "shop_order": "480156",
     "fecha_inicial": "30/9/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RGC1A23D30KGU",
+    "descripcion_de_falla": "Falla de placa control RG",
+    "cantidad": 19,
+    "shop_order": "480467",
+    "fecha_inicial": "5/10/2026",
+    "imagen": ""
   }
 ]
