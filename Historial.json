@@ -575,7 +575,7 @@
     "rework": "cambiar crystal",
     "status": "Cerrado",
     "cantidad": 20,
-    "comentarios": "en hold por prioridades",
+    "comentarios": "en hold por prioridades estan en produccion",
     "causa_falla": "crystal invertido",
     "ubicacion_final": "produccion",
     "fecha_inicial": "7/9/2026",
