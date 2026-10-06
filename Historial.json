@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RKD2A60D50PS32",
+    "shop_order": "480185",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "no se pueden analizar por que traen waker y conformance",
+    "rework": "scrap",
+    "status": "Cerrado",
+    "cantidad": 12,
+    "comentarios": "no se pueden analizar",
+    "causa_falla": "minimum load",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "6/10/2026",
+    "fecha_fin": "10/06/26 11:10:10",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "480156",
     "descripcion_de_falla": "Falla de prueba electrica",
