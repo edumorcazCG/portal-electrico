@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RS1A23D25S300",
+    "shop_order": "",
+    "descripcion_de_falla": "para prueba",
+    "analisis": "no estaba soldado el cable G1",
+    "rework": "se soldo cable",
+    "status": "Cerrado",
+    "cantidad": 1,
+    "comentarios": "",
+    "causa_falla": "varistor",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "",
+    "fecha_fin": "10/05/26 18:05:04",
+    "imagen": "RM1A.png",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1A23D25",
     "shop_order": "474877",
     "descripcion_de_falla": "Falla en prueba electrica",
