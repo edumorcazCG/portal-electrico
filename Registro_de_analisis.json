@@ -12,5 +12,12 @@
     "cantidad": 3,
     "shop_order": "478849",
     "fecha_inicial": "6/10/2026"
+  },
+  {
+    "numero_de_parte": "RKD2A60D50PS32",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 12,
+    "shop_order": "480185",
+    "fecha_inicial": "6/10/2026"
   }
 ]
