@@ -294,15 +294,7 @@
   {
     "numero_de_parte": "RM1A23D25",
     "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 19,
-    "shop_order": "474877",
-    "fecha_inicial": "3/9/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RM1A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 4,
+    "cantidad": 9,
     "shop_order": "474877",
     "fecha_inicial": "3/9/2026",
     "imagen": ""
