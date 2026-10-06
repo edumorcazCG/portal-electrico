@@ -1,5 +1,16 @@
 [
   {
+    "numero_de_parte": "RM1A23D25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 19,
+    "shop_order": "474877",
+    "fecha_inicial": "2/9/2026",
+    "imagen": "",
+    "causa_falla": "piezas duplicadas en apuntar",
+    "ubicacion_final": "no existen",
+    "fecha_fin": "10/05/26 17:58:27"
+  },
+  {
     "numero_de_parte": "RGC1A23D30KGU",
     "shop_order": "480467",
     "descripcion_de_falla": "Falla de placa control RG",
