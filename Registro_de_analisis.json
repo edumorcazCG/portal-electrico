@@ -5,5 +5,12 @@
     "cantidad": 10,
     "shop_order": "454615",
     "fecha_inicial": "6/10/2026"
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "cantidad": 3,
+    "shop_order": "478849",
+    "fecha_inicial": "6/10/2026"
   }
 ]
