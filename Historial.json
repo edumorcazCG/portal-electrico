@@ -1,5 +1,32 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "480156",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "sin soldar terminal y swicht defectuoso",
+    "rework": "soldar pista y ala otra cambair swicht",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "pasados",
+    "causa_falla": "funcional",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "30/9/2026",
+    "fecha_fin": "10/05/26 18:14:32",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "Placa control fallada",
+    "cantidad": 2,
+    "shop_order": "480156",
+    "fecha_inicial": "29/9/2026",
+    "imagen": "",
+    "causa_falla": "funcional",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "10/05/26 18:13:30"
+  },
+  {
     "numero_de_parte": "RS1A23D25S300",
     "shop_order": "",
     "descripcion_de_falla": "para prueba",
