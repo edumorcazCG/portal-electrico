@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1A60D50S333",
+    "shop_order": "468989",
+    "descripcion_de_falla": "Falla en prueba electricas",
+    "analisis": "transistor Q2 defectuoso",
+    "rework": "se cambio transistor",
+    "status": "Cerrado",
+    "cantidad": 6,
+    "comentarios": "",
+    "causa_falla": "transistor defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "29/8/2026",
+    "fecha_fin": "10/07/26 18:40:32",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "480156",
     "descripcion_de_falla": "Falla PE Placa power",
