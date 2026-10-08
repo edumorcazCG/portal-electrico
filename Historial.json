@@ -1,5 +1,27 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "Falla PE Placa power",
+    "cantidad": 4,
+    "shop_order": "480156",
+    "fecha_inicial": "7/10/2026",
+    "imagen": "",
+    "causa_falla": "falta de soldadura",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "10/07/26 17:09:23"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "Falla PE Placa control",
+    "cantidad": 4,
+    "shop_order": "480156",
+    "fecha_inicial": "7/10/2026",
+    "imagen": "",
+    "causa_falla": "capacitor desoldado",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "10/07/26 17:08:59"
+  },
+  {
     "numero_de_parte": "RM1E48AA25",
     "shop_order": "454615",
     "descripcion_de_falla": "Falla en prueba electrica",
