@@ -330,19 +330,6 @@
     "analisis": "",
     "rework": "",
     "status": "Pendiente",
-    "cantidad": 2,
-    "comentarios": "",
-    "fecha_inicial": "14/9/2026",
-    "imagen": "RA2A.png",
-    "evidencia": []
-  },
-  {
-    "numero_de_parte": "RA2A23D25",
-    "shop_order": "472765",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "analisis": "",
-    "rework": "",
-    "status": "Pendiente",
     "cantidad": 1,
     "comentarios": "",
     "fecha_inicial": "12/9/2026",
@@ -442,14 +429,6 @@
     "cantidad": 3,
     "shop_order": "478849",
     "fecha_inicial": "6/10/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla de prueba electrica",
-    "cantidad": 5,
-    "shop_order": "478841",
-    "fecha_inicial": "8/10/2026",
     "imagen": ""
   }
 ]
