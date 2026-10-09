@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RA2A23D25",
+    "shop_order": "478841",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "opto defectuoso",
+    "rework": "se cambiaron optos",
+    "status": "Cerrado",
+    "cantidad": 10,
+    "comentarios": "",
+    "causa_falla": "varistor",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "8/10/2026",
+    "fecha_fin": "10/08/26 17:51:06",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1A60D50S333",
     "shop_order": "468989",
     "descripcion_de_falla": "Falla en prueba electricas",
