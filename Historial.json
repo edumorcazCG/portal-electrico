@@ -1,6 +1,38 @@
 [
   {
     "numero_de_parte": "RA2A23D25",
+    "shop_order": "472765",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "cables desoldados G1",
+    "rework": "se soldo cable",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "hv",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "14/9/2026",
+    "fecha_fin": "10/09/26 07:28:25",
+    "imagen": "RA2A.png",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RA2A23D25",
+    "shop_order": "478841",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "terminales sucias",
+    "rework": "limpiar terminales",
+    "status": "Cerrado",
+    "cantidad": 5,
+    "comentarios": "",
+    "causa_falla": "HC",
+    "ubicacion_final": "PRODUCCION",
+    "fecha_inicial": "8/10/2026",
+    "fecha_fin": "10/09/26 07:26:58",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RA2A23D25",
     "shop_order": "478841",
     "descripcion_de_falla": "Falla de prueba electrica",
     "analisis": "opto defectuoso",
