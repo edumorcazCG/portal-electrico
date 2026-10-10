@@ -19,5 +19,12 @@
     "cantidad": 7,
     "shop_order": "480156",
     "fecha_inicial": "10/10/2026"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "falla en placa control",
+    "cantidad": 6,
+    "shop_order": "480156",
+    "fecha_inicial": "10/10/2026"
   }
 ]
