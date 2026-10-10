@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RM1E60AA50",
+    "descripcion_de_falla": "Falla en funtional test",
+    "cantidad": 6,
+    "shop_order": "454608",
+    "fecha_inicial": "10/10/2026"
+  }
+]
