@@ -2,6 +2,22 @@
   {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "480156",
+    "descripcion_de_falla": "Falla en Prueba electrica",
+    "analisis": "falta de soldadura y swicht dañados",
+    "rework": "se cambiaron swicht",
+    "status": "Cerrado",
+    "cantidad": 5,
+    "comentarios": "",
+    "causa_falla": "falta de soldadura en pistas",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "9/10/2026",
+    "fecha_fin": "10/10/26 11:55:41",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "480156",
     "descripcion_de_falla": "falla en placa control",
     "analisis": "resistencia R333 desoldada",
     "rework": "se soldo resistencia",
