@@ -12,5 +12,12 @@
     "cantidad": 5,
     "shop_order": "467869",
     "fecha_inicial": "10/10/2026"
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "descripcion_de_falla": "Falla placa power",
+    "cantidad": 7,
+    "shop_order": "480156",
+    "fecha_inicial": "10/10/2026"
   }
 ]
