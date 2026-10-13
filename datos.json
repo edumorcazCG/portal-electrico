@@ -438,5 +438,21 @@
     "shop_order": "480156",
     "fecha_inicial": "12/10/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1C60D100",
+    "descripcion_de_falla": "Falla prueba funcional",
+    "cantidad": 6,
+    "shop_order": "487080",
+    "fecha_inicial": "13/10/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1C60D25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 33,
+    "shop_order": "487081",
+    "fecha_inicial": "13/10/2026",
+    "imagen": ""
   }
 ]
