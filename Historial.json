@@ -347,7 +347,7 @@
     "descripcion_de_falla": "Falla de placa control RG",
     "analisis": "opto defectuoso",
     "rework": "cambiar optp",
-    "status": "Pendiente",
+    "status": "Cerrado",
     "cantidad": 19,
     "comentarios": "",
     "causa_falla": "se activa sin el voltaje del control",
