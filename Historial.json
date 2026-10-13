@@ -192,7 +192,7 @@
     "descripcion_de_falla": "Falla PE Placa control",
     "analisis": "capcitor desoldado",
     "rework": "se soldo capacitor",
-    "status": "Pendiente",
+    "status": "Cerrado",
     "cantidad": 4,
     "comentarios": "",
     "causa_falla": "capacitor desoldado",
