@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "480156",
+    "descripcion_de_falla": "Falla en Prueba electrica",
+    "analisis": "no se encontro falla",
+    "rework": "ldaron pistas y se programaron",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "no prende led rojo",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "9/10/2026",
+    "fecha_fin": "10/13/26 18:49:19",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "480156",
+    "descripcion_de_falla": "Falla prueba electrica",
+    "analisis": "no se encontro daño",
+    "rework": "se resoldaron pistas y se programo de nuevo",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "",
+    "causa_falla": "funcional",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "12/10/2026",
+    "fecha_fin": "10/13/26 18:48:59",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1C60D25",
     "shop_order": "487081",
     "descripcion_de_falla": "Falla en prueba electrica",
