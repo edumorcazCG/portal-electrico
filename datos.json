@@ -426,17 +426,9 @@
   {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "descripcion_de_falla": "Falla en Prueba electrica",
-    "cantidad": 6,
+    "cantidad": 4,
     "shop_order": "480156",
     "fecha_inicial": "9/10/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RSBS2332A2V23C24HP",
-    "descripcion_de_falla": "Falla prueba electrica",
-    "cantidad": 3,
-    "shop_order": "480156",
-    "fecha_inicial": "12/10/2026",
     "imagen": ""
   }
 ]
