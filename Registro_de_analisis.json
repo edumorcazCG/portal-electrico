@@ -1,16 +1,1 @@
-[
-  {
-    "numero_de_parte": "RSBS2332A2V23C24HP",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 5,
-    "shop_order": "487972",
-    "fecha_inicial": "14/10/2026"
-  },
-  {
-    "numero_de_parte": "RSBS2332A2V23C24HP",
-    "descripcion_de_falla": "Falla prueba ICT POWER",
-    "cantidad": 6,
-    "shop_order": "487972",
-    "fecha_inicial": "14/10/2026"
-  }
-]
+[]
