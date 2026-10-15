@@ -2,6 +2,22 @@
   {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "487972",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "swicht defectuoso",
+    "rework": "se cambio el swicht",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "",
+    "causa_falla": "swicht defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "14/10/2026",
+    "fecha_fin": "10/15/26 16:09:54",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "487972",
     "descripcion_de_falla": "Falla prueba ICT POWER",
     "analisis": "soldadura fria",
     "rework": "se resoldo y limpio",
