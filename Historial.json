@@ -1,6 +1,22 @@
 [
   {
     "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "487972",
+    "descripcion_de_falla": "Falla prueba ICT POWER",
+    "analisis": "soldadura fria",
+    "rework": "se resoldo y limpio",
+    "status": "Cerrado",
+    "cantidad": 6,
+    "comentarios": "",
+    "causa_falla": "soldadura fria",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "14/10/2026",
+    "fecha_fin": "10/15/26 06:51:07",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "480156",
     "descripcion_de_falla": "Falla en Prueba electrica",
     "analisis": "fallaron en prueba funcioanl",
@@ -53,7 +69,7 @@
     "descripcion_de_falla": "Falla en prueba electrica",
     "analisis": "capacitor en corto",
     "rework": "cambiar capacitor",
-    "status": "Cerrado",
+    "status": "En rework",
     "cantidad": 33,
     "comentarios": "produccion cambiara el capacitor",
     "causa_falla": "capacitor en corto",
