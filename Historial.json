@@ -85,7 +85,7 @@
     "descripcion_de_falla": "Falla en prueba electrica",
     "analisis": "capacitor en corto",
     "rework": "cambiar capacitor",
-    "status": "En rework",
+    "status": "Cerrado",
     "cantidad": 33,
     "comentarios": "produccion cambiara el capacitor",
     "causa_falla": "capacitor en corto",
