@@ -12,5 +12,12 @@
     "cantidad": 2,
     "shop_order": "487973",
     "fecha_inicial": "20/10/2026"
+  },
+  {
+    "numero_de_parte": "RM1E48V50S293",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "487084",
+    "fecha_inicial": "20/10/2026"
   }
 ]
