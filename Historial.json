@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C17HP",
+    "shop_order": "487973",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "se encontro el transistor invertido",
+    "rework": "cambiar transistor",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "transistor invertido",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "20/10/2026",
+    "fecha_fin": "10/20/26 12:22:18",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "487972",
     "descripcion_de_falla": "Falla en prueba electrica",
