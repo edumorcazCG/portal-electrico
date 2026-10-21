@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "shop_order": "478849",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "falta de soldadura no soldado los cables",
+    "rework": "se soldaron los cables (gates )",
+    "status": "Cerrado",
+    "cantidad": 21,
+    "comentarios": "",
+    "causa_falla": "falta de soldadura",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "19/10/2026",
+    "fecha_fin": "10/20/26 18:33:36",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "shop_order": "478849",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "los cables del power module salieron abiertos",
+    "rework": "scrap power",
+    "status": "Cerrado",
+    "cantidad": 12,
+    "comentarios": "",
+    "causa_falla": "power module defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "19/10/2026",
+    "fecha_fin": "10/20/26 18:33:14",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C17HP",
     "shop_order": "487973",
     "descripcion_de_falla": "Falla en prueba electrica",
