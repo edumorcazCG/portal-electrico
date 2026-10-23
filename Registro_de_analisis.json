@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 22,
+    "shop_order": "RA2A23D40CH53P86",
+    "fecha_inicial": "23/10/2026"
+  }
+]
