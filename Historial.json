@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "shop_order": "478849",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "cables desoldados",
+    "rework": "se soldaron los cables (gates)",
+    "status": "Cerrado",
+    "cantidad": 4,
+    "comentarios": "",
+    "causa_falla": "cables desoldados",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "19/10/2026",
+    "fecha_fin": "10/22/26 17:49:37",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "487972",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "swicht defectuoso",
+    "rework": "se cambio swicht",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "swicht defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "22/10/2026",
+    "fecha_fin": "10/22/26 17:49:11",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "487972",
     "descripcion_de_falla": "Falla en prueba electrica",
