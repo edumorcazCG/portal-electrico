@@ -480,14 +480,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RSBS2332A2V23C24HP",
-    "descripcion_de_falla": "Falla en placa control",
-    "cantidad": 3,
-    "shop_order": "487972",
-    "fecha_inicial": "27/10/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RA2A23D40CH53P86",
     "descripcion_de_falla": "Falla en prueba electrica",
     "cantidad": 22,
