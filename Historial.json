@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RSBS2332A2V23C24HP",
+    "shop_order": "487972",
+    "descripcion_de_falla": "Falla en placa control",
+    "analisis": "2 con capcitor desoldado y 1 con la resistenciadesoldada",
+    "rework": "se resoldaron componentes",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "son fallas de smt",
+    "causa_falla": "capacitor desoldado",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "27/10/2026",
+    "fecha_fin": "10/27/26 09:15:27",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBT4032EV20S257",
     "shop_order": "490453",
     "descripcion_de_falla": "Pestaña de PWU quebrada",
