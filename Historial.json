@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "shop_order": "478849",
+    "descripcion_de_falla": "para analisis",
+    "analisis": "power module defectuoso",
+    "rework": "cambiar power module",
+    "status": "Cerrado",
+    "cantidad": 6,
+    "comentarios": "",
+    "causa_falla": "Min.operation L2-T2",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "",
+    "fecha_fin": "10/27/26 15:25:13",
+    "imagen": "RA2A.png",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "487972",
     "descripcion_de_falla": "Falla en placa control",
