@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1E23AA25",
+    "shop_order": "487091",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "analisis": "se encontro resistencia de 600k y lleva 220 k",
+    "rework": "se cambio resistencia",
+    "status": "Cerrado",
+    "cantidad": 12,
+    "comentarios": "",
+    "causa_falla": "resistencia equibocada",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "27/10/2026",
+    "fecha_fin": "10/27/26 18:19:08",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RSBS2332A2V23C24HP",
     "shop_order": "487972",
     "descripcion_de_falla": "Falla en placa power",
