@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1A48A75",
+    "shop_order": "487089",
+    "descripcion_de_falla": "Falla en prueba electreica",
+    "analisis": "parammetros altos , pcb en corto",
+    "rework": "se ajustaron parametros y se cambio pcb",
+    "status": "Cerrado",
+    "cantidad": 8,
+    "comentarios": "",
+    "causa_falla": "parametros y corto en pcb",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "29/10/2026",
+    "fecha_fin": "10/29/26 11:07:12",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA2A23D40CH53P86",
     "shop_order": "",
     "descripcion_de_falla": "para analisis",
