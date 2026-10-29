@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RM1A23A25",
+    "shop_order": "477830",
+    "descripcion_de_falla": "HV",
+    "analisis": "fuera de parametros",
+    "rework": "se ajustaron parametros en prueba",
+    "status": "Cerrado",
+    "cantidad": 6,
+    "comentarios": "",
+    "causa_falla": "fuera de parametros",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "28/10/2026",
+    "fecha_fin": "10/28/26 17:45:42",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RSBT4032EV20S257",
+    "shop_order": "490453",
+    "descripcion_de_falla": "Fallas en prueba electrica",
+    "analisis": "falta de soldadura en pins y terminales",
+    "rework": "se soldo terminales y pins",
+    "status": "Cerrado",
+    "cantidad": 4,
+    "comentarios": "",
+    "causa_falla": "FALTA DE SOLODADURA",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "28/10/2026",
+    "fecha_fin": "10/28/26 17:45:10",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1E23AA25",
     "shop_order": "487091",
     "descripcion_de_falla": "Fallas en prueba electrica",
