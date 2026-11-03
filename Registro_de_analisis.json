@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RGC1A23D20KGU",
+    "descripcion_de_falla": "Falla en placa control",
+    "cantidad": 3,
+    "shop_order": "487652",
+    "fecha_inicial": "3/11/2026"
+  }
+]
