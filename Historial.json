@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC1A60D30KGUS80",
+    "shop_order": "487351",
+    "descripcion_de_falla": "Falla en placa control",
+    "analisis": "opto defectuoso",
+    "rework": "se cambiaron optos",
+    "status": "Cerrado",
+    "cantidad": 10,
+    "comentarios": "",
+    "causa_falla": "opto defectuoso",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "2/11/2026",
+    "fecha_fin": "11/02/26 18:46:26",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1A48A75",
     "shop_order": "487089",
     "descripcion_de_falla": "Falla en prueba electreica",
