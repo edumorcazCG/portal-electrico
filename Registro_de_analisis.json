@@ -1,16 +1,1 @@
-[
-  {
-    "numero_de_parte": "RGC1A60D30KGUS80",
-    "descripcion_de_falla": "Falla en placa control",
-    "cantidad": 10,
-    "shop_order": "487351",
-    "fecha_inicial": "2/11/2026"
-  },
-  {
-    "numero_de_parte": "RA2A23D40CH53P86",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 17,
-    "shop_order": "478849",
-    "fecha_inicial": "2/11/2026"
-  }
-]
+[]
