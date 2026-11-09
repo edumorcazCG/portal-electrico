@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RGC1A60D32KGU",
+    "descripcion_de_falla": "FALLA EN PRUEBA ELECTRICA",
+    "cantidad": 11,
+    "shop_order": "487651",
+    "fecha_inicial": "9/11/2026"
+  }
+]
