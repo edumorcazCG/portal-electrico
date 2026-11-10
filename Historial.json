@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC1A60D32KGU",
+    "shop_order": "487651",
+    "descripcion_de_falla": "FALLA EN PRUEBA ELECTRICA",
+    "analisis": "pcb power en corto",
+    "rework": "cambiar pcb",
+    "status": "Cerrado",
+    "cantidad": 11,
+    "comentarios": "produccion las cambiara y seguira el proceso de pruebas",
+    "causa_falla": "se activan sin el voltaje en el control",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "9/11/2026",
+    "fecha_fin": "11/10/26 07:46:10",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA2A23D40",
     "shop_order": "485385",
     "descripcion_de_falla": "FT",
