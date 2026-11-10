@@ -1,8 +1,15 @@
 [
   {
-    "Numero_de_parte": "RGC1A60D32KGE",
+    "Numero_de_parte": "RGC1A23D25KGU",
     "Change_description": "Se actualize etiqueta, Se agrego Assembled in Mexico",
     "git": "",
+    "Link": "",
+    "Date": "11/09/26 16:20:03"
+  },
+  {
+    "Numero_de_parte": "RGC1A60D32KGE",
+    "Change_description": "Se actualize etiqueta, Se agrego Assembled in Mexico",
+    "git": "Se actualize etiqueta, Se agrego Assembled in Mexico",
     "Link": "",
     "Date": "11/09/26 16:19:07"
   },
