@@ -1,5 +1,32 @@
 [
   {
+    "numero_de_parte": "RA4850H12PCS",
+    "shop_order": "491174",
+    "descripcion_de_falla": "Para analisis, SMD Comp quemado",
+    "analisis": "unidades quemadas por corto",
+    "rework": "reemplazar el pcb completo",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "quemados",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "10/11/2026",
+    "fecha_fin": "11/10/26 17:55:14",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RA2A23D25",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 14,
+    "shop_order": "478841",
+    "fecha_inicial": "10/11/2026",
+    "imagen": "",
+    "causa_falla": "VARIAS",
+    "ubicacion_final": "PRODUCCION",
+    "fecha_fin": "11/10/26 17:54:51"
+  },
+  {
     "numero_de_parte": "RGC1A60D32KGU",
     "shop_order": "487651",
     "descripcion_de_falla": "FALLA EN PRUEBA ELECTRICA",
