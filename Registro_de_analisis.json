@@ -1,16 +1,1 @@
-[
-  {
-    "numero_de_parte": "RA4850H12PCS",
-    "descripcion_de_falla": "Para analisis, SMD Comp quemado",
-    "cantidad": 2,
-    "shop_order": "491174",
-    "fecha_inicial": "10/11/2026"
-  },
-  {
-    "numero_de_parte": "RA2A23D25",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 14,
-    "shop_order": "478841",
-    "fecha_inicial": "10/11/2026"
-  }
-]
+[]
