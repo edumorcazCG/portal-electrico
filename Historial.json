@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RM1A60D50S333",
+    "shop_order": "",
+    "descripcion_de_falla": "analisis",
+    "analisis": "falta de soldadura, resistencia equibocada ,power defectuoso",
+    "rework": "retoque de soldadura, cambiar resistencia,cambiar power",
+    "status": "Cerrado",
+    "cantidad": 25,
+    "comentarios": "",
+    "causa_falla": "varias",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "",
+    "fecha_fin": "11/11/26 06:49:32",
+    "imagen": "RM1A.png",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA4850H12PCS",
     "shop_order": "491174",
     "descripcion_de_falla": "Para analisis, SMD Comp quemado",
