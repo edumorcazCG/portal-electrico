@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RGC3A60D20KKE",
+    "descripcion_de_falla": "Falla FT paso 4",
+    "cantidad": 3,
+    "shop_order": "495399",
+    "fecha_inicial": "12/11/2026"
+  }
+]
