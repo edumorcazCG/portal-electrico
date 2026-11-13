@@ -504,5 +504,13 @@
     "shop_order": "485385",
     "fecha_inicial": "5/11/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA4850H12PCS",
+    "descripcion_de_falla": "Falla output sense",
+    "cantidad": 9,
+    "shop_order": "491174",
+    "fecha_inicial": "12/11/2026",
+    "imagen": ""
   }
 ]
