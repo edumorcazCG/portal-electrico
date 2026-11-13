@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC3A60D20KKE",
+    "shop_order": "495399",
+    "descripcion_de_falla": "Falla FT paso 4",
+    "analisis": "pines desoldados",
+    "rework": "se soldaron pines",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "pasadas",
+    "causa_falla": "no power",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "12/11/2026",
+    "fecha_fin": "11/12/26 17:06:59",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RM1A60D50S333",
     "shop_order": "",
     "descripcion_de_falla": "analisis",
