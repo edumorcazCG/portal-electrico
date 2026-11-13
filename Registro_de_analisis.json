@@ -1,16 +1,1 @@
-[
-  {
-    "numero_de_parte": "RGC3A60D20KKE",
-    "descripcion_de_falla": "Falla FT paso 4",
-    "cantidad": 3,
-    "shop_order": "495399",
-    "fecha_inicial": "12/11/2026"
-  },
-  {
-    "numero_de_parte": "RA4850H12PCS",
-    "descripcion_de_falla": "Falla output sense",
-    "cantidad": 9,
-    "shop_order": "491174",
-    "fecha_inicial": "12/11/2026"
-  }
-]
+[]
