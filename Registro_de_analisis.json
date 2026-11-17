@@ -5,5 +5,12 @@
     "cantidad": 9,
     "shop_order": "495396",
     "fecha_inicial": "13/11/2026"
+  },
+  {
+    "numero_de_parte": "RGC1A60D30KGU",
+    "descripcion_de_falla": "Falla FT step 10",
+    "cantidad": 2,
+    "shop_order": "497300",
+    "fecha_inicial": "17/11/2026"
   }
 ]
