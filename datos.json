@@ -512,13 +512,5 @@
     "shop_order": "491174",
     "fecha_inicial": "12/11/2026",
     "imagen": ""
-  },
-  {
-    "numero_de_parte": "RGC3A60A20KKEP66",
-    "descripcion_de_falla": "Falla FT step 5",
-    "cantidad": 9,
-    "shop_order": "495396",
-    "fecha_inicial": "13/11/2026",
-    "imagen": ""
   }
 ]
