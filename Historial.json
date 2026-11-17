@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC3A60A20KKEP66",
+    "shop_order": "495396",
+    "descripcion_de_falla": "Falla FT step 5",
+    "analisis": "se encontraron con corto,sin soldadura y las otras nose encontro falla",
+    "rework": "se quito corto se puso soldadura y se volvieron a probar",
+    "status": "Cerrado",
+    "cantidad": 9,
+    "comentarios": "pasadas",
+    "causa_falla": "step 5",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "13/11/2026",
+    "fecha_fin": "11/17/26 11:18:37",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RGC1A60D30KGU",
     "shop_order": "497300",
     "descripcion_de_falla": "Falla FT step 10",
