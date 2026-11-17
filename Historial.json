@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC1A60D30KGU",
+    "shop_order": "497300",
+    "descripcion_de_falla": "Falla FT step 10",
+    "analisis": "tornillos flojos",
+    "rework": "se apretaron tornillos",
+    "status": "Cerrado",
+    "cantidad": 2,
+    "comentarios": "",
+    "causa_falla": "step 10",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "17/11/2026",
+    "fecha_fin": "11/17/26 08:20:12",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RGC3A60D20KKE",
     "shop_order": "495399",
     "descripcion_de_falla": "Falla FT paso 4",
