@@ -5,5 +5,12 @@
     "cantidad": 5,
     "shop_order": "495395",
     "fecha_inicial": "17/11/2026"
+  },
+  {
+    "numero_de_parte": "RGC3A60A48KGE",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "490437",
+    "fecha_inicial": "17/11/2026"
   }
 ]
