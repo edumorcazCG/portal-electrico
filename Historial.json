@@ -21,7 +21,7 @@
     "descripcion_de_falla": "Falla en prueba electrica",
     "analisis": "falso contacto",
     "rework": "se cambiaron los power de posicion",
-    "status": "Pendiente",
+    "status": "Cerrado",
     "cantidad": 5,
     "comentarios": "pasaron",
     "causa_falla": "falso contacto",
