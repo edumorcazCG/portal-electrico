@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RGC3A60A48KGE",
+    "shop_order": "490437",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "probable falso contacto",
+    "rework": "se cambiaron los power de posicion",
+    "status": "Cerrado",
+    "cantidad": 3,
+    "comentarios": "pasaron",
+    "causa_falla": "falso contacto",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "17/11/2026",
+    "fecha_fin": "11/17/26 17:33:14",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RGC2A60A25KKEP66",
+    "shop_order": "495395",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "falso contacto",
+    "rework": "se cambiaron los power de posicion",
+    "status": "Pendiente",
+    "cantidad": 5,
+    "comentarios": "pasaron",
+    "causa_falla": "falso contacto",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "17/11/2026",
+    "fecha_fin": "11/17/26 17:32:50",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RGC3A60A20KKEP66",
     "shop_order": "495396",
     "descripcion_de_falla": "Falla FT step 5",
