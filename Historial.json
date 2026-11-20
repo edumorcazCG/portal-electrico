@@ -1,5 +1,27 @@
 [
   {
+    "numero_de_parte": "RGC3A60D20KKEP66",
+    "descripcion_de_falla": "Falla FT",
+    "cantidad": 16,
+    "shop_order": "495398",
+    "fecha_inicial": "19/11/2026",
+    "imagen": "",
+    "causa_falla": "10 funcional test y 6 high voltaje",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "11/20/26 11:56:17"
+  },
+  {
+    "numero_de_parte": "RGC3A60D20KKEP66",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 2,
+    "shop_order": "495398",
+    "fecha_inicial": "18/11/2026",
+    "imagen": "",
+    "causa_falla": "pins desoldados",
+    "ubicacion_final": "produccion",
+    "fecha_fin": "11/20/26 11:55:50"
+  },
+  {
     "numero_de_parte": "RGC3A60A48KGE",
     "shop_order": "490437",
     "descripcion_de_falla": "Falla en prueba electrica",
