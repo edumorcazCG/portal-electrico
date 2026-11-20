@@ -514,22 +514,6 @@
     "imagen": ""
   },
   {
-    "numero_de_parte": "RGC3A60D20KKEP66",
-    "descripcion_de_falla": "Falla FT",
-    "cantidad": 16,
-    "shop_order": "495398",
-    "fecha_inicial": "19/11/2026",
-    "imagen": ""
-  },
-  {
-    "numero_de_parte": "RGC3A60D20KKEP66",
-    "descripcion_de_falla": "Falla en prueba electrica",
-    "cantidad": 2,
-    "shop_order": "495398",
-    "fecha_inicial": "18/11/2026",
-    "imagen": ""
-  },
-  {
     "numero_de_parte": "RA2A23D40CH53P86",
     "descripcion_de_falla": "Falla en prueba electrica",
     "cantidad": 29,
