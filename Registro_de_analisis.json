@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RSBT4025EV10SM52",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 1,
+    "shop_order": "495689",
+    "fecha_inicial": "23/11/2026"
+  }
+]
