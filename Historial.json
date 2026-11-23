@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RSBT4025EV10SM52",
+    "shop_order": "495689",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "se encontro un transistor fuera de posicion",
+    "rework": "se acomodo transistor",
+    "status": "Cerrado",
+    "cantidad": 1,
+    "comentarios": "",
+    "causa_falla": "componente fuera de pocicion",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "23/11/2026",
+    "fecha_fin": "11/23/26 10:10:17",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA2A23D40CH53P86",
     "shop_order": "495667",
     "descripcion_de_falla": "Falla en prueba electrica",
