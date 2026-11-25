@@ -1,5 +1,37 @@
 [
   {
+    "numero_de_parte": "RM1A60D50S378",
+    "shop_order": "495390",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "cables sin solda, inductor abiertos,otos defectuosos",
+    "rework": "se soldaron cables se cambiaron inductores y optos",
+    "status": "Cerrado",
+    "cantidad": 29,
+    "comentarios": "",
+    "causa_falla": "varias",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "23/11/2026",
+    "fecha_fin": "11/25/26 10:12:25",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
+    "numero_de_parte": "RGC3A60D25KKE",
+    "shop_order": "488165",
+    "descripcion_de_falla": "Falla de prueba electrica",
+    "analisis": "3 unidades coon tornillos flojos y una faltaba soldar pins",
+    "rework": "se apretaron tornillos y se soldaron pins",
+    "status": "Cerrado",
+    "cantidad": 4,
+    "comentarios": "pasaron",
+    "causa_falla": "input +output",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "24/11/2026",
+    "fecha_fin": "11/25/26 10:11:12",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RA2A23D40CH53P86",
     "shop_order": "495667",
     "descripcion_de_falla": "Falla en prueba electrica",
