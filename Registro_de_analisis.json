@@ -12,5 +12,12 @@
     "cantidad": 23,
     "shop_order": "495667",
     "fecha_inicial": "24/11/2026"
+  },
+  {
+    "numero_de_parte": "RS1A23D25S300",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 6,
+    "shop_order": "495386",
+    "fecha_inicial": "24/11/2026"
   }
 ]
