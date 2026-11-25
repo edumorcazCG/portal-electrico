@@ -520,5 +520,29 @@
     "shop_order": "495667",
     "fecha_inicial": "18/11/2026",
     "imagen": ""
+  },
+  {
+    "numero_de_parte": "RS1A23D25S300",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 6,
+    "shop_order": "495386",
+    "fecha_inicial": "24/11/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RA2A23D40CH53P86",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 23,
+    "shop_order": "495667",
+    "fecha_inicial": "24/11/2026",
+    "imagen": ""
+  },
+  {
+    "numero_de_parte": "RM1A60D50S378",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 4,
+    "shop_order": "495390",
+    "fecha_inicial": "23/11/2026",
+    "imagen": ""
   }
 ]
