@@ -1,5 +1,21 @@
 [
   {
+    "numero_de_parte": "RGC3A60D25KKE",
+    "shop_order": "488165",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "analisis": "tornillos flojos del power",
+    "rework": "se apreto tornillos",
+    "status": "Cerrado",
+    "cantidad": 1,
+    "comentarios": "",
+    "causa_falla": "min. operation",
+    "ubicacion_final": "produccion",
+    "fecha_inicial": "26/11/2026",
+    "fecha_fin": "11/26/26 11:07:00",
+    "imagen": "",
+    "evidencia": []
+  },
+  {
     "numero_de_parte": "RS1A23D25S300",
     "shop_order": "495386",
     "descripcion_de_falla": "Falla en prueba electrica",
