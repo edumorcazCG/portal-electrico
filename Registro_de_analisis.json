@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "numero_de_parte": "RGC3A60D20KKEP116",
+    "descripcion_de_falla": "Falla en prueba electrica",
+    "cantidad": 3,
+    "shop_order": "499350",
+    "fecha_inicial": "27/11/2026"
+  }
+]
